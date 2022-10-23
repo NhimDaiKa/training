@@ -40,43 +40,45 @@ def send_image(url, local_file, cookie, wpnonce):
     img = open(local_file, 'rb').read()
     file_name = local_file.split("/")[-1]
     extension = file_name.split(".")[-1]
-    body =f'''------WebKitFormBoundaryV9uLzxMjxVJ4E0bo\r
+    body =f'''------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="name"\r
 \r
 {file_name}\r  
-------WebKitFormBoundaryV9uLzxMjxVJ4E0bo\r
+------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="post_id"\r
 \r
 0\r
-------WebKitFormBoundaryV9uLzxMjxVJ4E0bo\r
+------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="_wpnonce"\r
 \r
 {wpnonce}\r
-------WebKitFormBoundaryOxxPPpFHwaE0tGe1\r
+------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="type"\r
 \r
 \r
-------WebKitFormBoundaryOxxPPpFHwaE0tGe1\r
+------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="tab"\r
 \r
 \r
-------WebKitFormBoundaryOxxPPpFHwaE0tGe1\r
+------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="short"\r
 \r
 1\r
-------WebKitFormBoundaryOxxPPpFHwaE0tGe1\r
+------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
 Content-Disposition: form-data; name="async-upload"; filename="{file_name}"\r
 Content-Type: image/{extension}\r
 \r
 {img}\r
-------WebKitFormBoundaryOxxPPpFHwaE0tGe1--\r
-\r'''
+------WebKitFormBoundaryXKO4AzI37YAFOk0n--\r
+\r
+'''
     length = len(body)
-    req = f"""POST /wp-admin/async-upload.php HTTP/2\r
+    req = f"""POST /wp-admin/async-upload.php HTTP/1,1\r
 Host: {url}\r
 Cookie: {cookie}\r
-Content-Type: multipart/form-data\r
 Content-Length: {length}\r
+Content-Type: multipart/form-data;boundary=----WebKitFormBoundaryXKO4AzI37YAFOk0n\r
+Connection: keep-alive\r
 \r
 """
     req += body
@@ -84,8 +86,7 @@ Content-Length: {length}\r
     data = sock.recv(2048)
     data = data.decode()
     if "HTTP/1.1 200 OK" in data:
-        path=re.findall(b'<button type="button" class="button button-small copy-attachment-url" data-clipboard-text="(.*)">Copy URL to clipboard</button>',data)
-        print(f"Upload success. File upload url: {path[0].decode()}")
+        print("Upload success")
     else:
         print("Failed")
     print (data)
@@ -107,11 +108,11 @@ log={}&pwd={}'''.format(url, length, user, password)
     if "login_error" not in data:
         print("User {} dang nhap thanh cong\n".format(user))
         cookie = get_cookie(data)
-        # print(cookie)
-        # print("\n")
+        print(cookie)
+        print("\n")
         wpnonce = get_wpnonce(url, cookie)
-        # print(wpnonce)
-        # print("\n")
+        print(wpnonce)
+        print("\n")
         send_image(url, local_file, cookie, wpnonce)
     else:
         print("User {} dang nhap that bai".format(user))
@@ -123,7 +124,7 @@ def main():
     user = args.user
     password = args.password
     local_file = args.local_file
-    login(url[7:-1], user, password)
+    login(url[7:-1], user, password, local_file)
     
 if __name__ == '__main__':
     main()
