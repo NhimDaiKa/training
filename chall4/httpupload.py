@@ -1,4 +1,5 @@
 import socket, ssl, argparse, re, os, html
+from tempfile import TMP_MAX
 
 def get_url():
     args = argparse.ArgumentParser()
@@ -19,14 +20,18 @@ def get_cookie(data):
 def get_wpnonce(url,cookie):
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     sock.connect((url, 80))
-    req = f"""GET /wp-admin/media-new.php HTTP/1.1\r
-Host: {url}\r
-Cookie: {cookie}\r
-\r
-"""
+    req = f"""GET /wp-admin/media-new.php HTTP/1.1\r\nHost: {url}\r\nCookie: {cookie}\r\n\r\n"""
     sock.send(req.encode())
-    data=sock.recv(2048)
-    wpnonce = re.findall(b'"post_id":0,"_wpnonce":"(.*)","type":"","tab":"","short":"1"',data)
+    data = b""
+    while 1:
+        tmp = sock.recv(4096)
+        if not tmp:
+            break
+        data += tmp
+    data = data.decode()
+    start = re.search('name="_wpnonce"', data).end() + 8
+    end = start + 10
+    wpnonce = data[start:end]
     return wpnonce
 
 def send_image(url, local_file, cookie, wpnonce):
@@ -67,7 +72,7 @@ Content-Type: image/{extension}\r
 ------WebKitFormBoundaryOxxPPpFHwaE0tGe1--\r
 \r'''
     length = len(body)
-    req = f"""POST /wp-admin/async-upload.php HTTP/1.1\r
+    req = f"""POST /wp-admin/async-upload.php HTTP/2\r
 Host: {url}\r
 Cookie: {cookie}\r
 Content-Type: multipart/form-data\r
@@ -78,11 +83,11 @@ Content-Length: {length}\r
     sock.send(req.encode())
     data = sock.recv(2048)
     data = data.decode()
-    # if "HTTP/1.1 200 OK" in data and '{"success":true' in data:
-    #     path=re.findall(b'<button type="button" class="button button-small copy-attachment-url" data-clipboard-text="(.*)">Copy URL to clipboard</button>',data)
-    #     print(f"Upload success. File upload url: {path[0].decode()}")
-    # else:
-    #     print("Failed")
+    if "HTTP/1.1 200 OK" in data:
+        path=re.findall(b'<button type="button" class="button button-small copy-attachment-url" data-clipboard-text="(.*)">Copy URL to clipboard</button>',data)
+        print(f"Upload success. File upload url: {path[0].decode()}")
+    else:
+        print("Failed")
     print (data)
 
 def login(url, user, password, local_file):
@@ -102,9 +107,11 @@ log={}&pwd={}'''.format(url, length, user, password)
     if "login_error" not in data:
         print("User {} dang nhap thanh cong\n".format(user))
         cookie = get_cookie(data)
-        print(cookie)
+        # print(cookie)
+        # print("\n")
         wpnonce = get_wpnonce(url, cookie)
-        print(wpnonce)
+        # print(wpnonce)
+        # print("\n")
         send_image(url, local_file, cookie, wpnonce)
     else:
         print("User {} dang nhap that bai".format(user))
@@ -116,7 +123,7 @@ def main():
     user = args.user
     password = args.password
     local_file = args.local_file
-    login(url[7:-1], user, password, local_file)
+    login(url[7:-1], user, password)
     
 if __name__ == '__main__':
     main()
