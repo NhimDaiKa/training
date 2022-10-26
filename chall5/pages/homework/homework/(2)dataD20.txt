@@ -1,0 +1,5250 @@
+Ten:  Nguyễn Tiến Đạt
+MSV:  B20DCCN001
+Lop:  D20CQCN01-B
+Mail:  tiendat184.it@gmail.com
+Date:  18/04/2002
+SDT:  0967962184
+-------------------------------------------------
+Ten:  Đào Đăng Duy
+MSV:  B20DCCN002
+Lop:  E20CQCN01-B
+Mail:  DuyDD.B20CN002@stu.ptit.edu.vn
+Date:  03/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Việt An
+MSV:  B20DCCN003
+Lop:  D20CQCN01-B
+Mail:  AnHV.B20CN003@stu.ptit.edu.vn
+Date:  22/09/2002
+SDT:  0359635205
+-------------------------------------------------
+Ten:  Nguyễn Đức Anh
+MSV:  B20DCCN004
+Lop:  D20CQCN02-B
+Mail:  AnhND.B20CN004@stu.ptit.edu.vn
+Date:  02/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Tiến Anh
+MSV:  B20DCCN005
+Lop:  D20CQCN03-B
+Mail:  AnhNT.B20CN005@stu.ptit.edu.vn
+Date:  22/06/2002
+SDT:  0977626483
+-------------------------------------------------
+Ten:  Nguyễn Tuấn Anh
+MSV:  B20DCCN006
+Lop:  D20CQCN04-B
+Mail:  AnhNT.B20CN006@stu.ptit.edu.vn
+Date:  28/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phùng Thị Ngọc Anh
+MSV:  B20DCCN007
+Lop:  D20CQCN05-B
+Mail:  phungngocanh9aht@gmail.com
+Date:  10/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Hoàng Anh
+MSV:  B20DCCN008
+Lop:  D20CQCN06-B
+Mail:  AnhTH.B20CN008@stu.ptit.edu.vn
+Date:  28/11/2002
+SDT:  0983406876
+-------------------------------------------------
+Ten:  Bùi Hoàng Cường
+MSV:  B20DCCN009
+Lop:  D20CQCN07-B
+Mail:  CuongBH.B20CN009@stu.ptit.edu.vn
+Date:  02/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Quang Đạt
+MSV:  B20DCCN010
+Lop:  D20CQCN08-B
+Mail:  DatNQ.B20CN010@stu.ptit.edu.vn
+Date:  23/11/2001
+SDT:  0325086239
+-------------------------------------------------
+Ten:  Bùi Anh Đức
+MSV:  B20DCCN011
+Lop:  D20CQCN09-B
+Mail:  DucBA.B20CN011@stu.ptit.edu.vn
+Date:  20/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Minh Đức
+MSV:  B20DCCN012
+Lop:  D20CQCN10-B
+Mail:  DucPM.B20CN012@stu.ptit.edu.vn
+Date:  23/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thanh Hà
+MSV:  B20DCCN015
+Lop:  D20CQCN01-B
+Mail:  HaNT.B20CN015@stu.ptit.edu.vn
+Date:  05/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Hải
+MSV:  B20DCCN016
+Lop:  D20CQCN02-B
+Mail:  HaiND.B20CN016@stu.ptit.edu.vn
+Date:  05/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Quang Hân
+MSV:  B20DCCN017
+Lop:  D20CQCN03-B
+Mail:  HanVQ.B20CN017@stu.ptit.edu.vn
+Date:  06/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Minh Hiếu
+MSV:  B20DCCN018
+Lop:  D20CQCN04-B
+Mail:  HieuVM.B20CN018@stu.ptit.edu.vn
+Date:  08/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Khánh Huyền
+MSV:  B20DCCN019
+Lop:  E20CQCN01-B
+Mail:  HuyenTK.B20CN019@stu.ptit.edu.vn
+Date:  12/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Minh Khôi
+MSV:  B20DCCN020
+Lop:  E20CQCN01-B
+Mail:  minhkhoi.nguyen2204@gmail.com
+Date:  22/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trung Kiên
+MSV:  B20DCCN021
+Lop:  D20CQCN07-B
+Mail:  KienNT.B20CN021@stu.ptit.edu.vn
+Date:  30/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Anh Kiệt
+MSV:  B20DCCN022
+Lop:  E20CQCN01-B
+Mail:  linuxteamvietnam123@gmail.com
+Date:  25/07/2002
+SDT:  0337552050
+-------------------------------------------------
+Ten:  Vũ Mai Linh
+MSV:  B20DCCN023
+Lop:  E20CQCN01-B
+Mail:  LinhVM.B20CN023@stu.ptit.edu.vn
+Date:  14/07/2001
+SDT:  0981480195
+-------------------------------------------------
+Ten:  Nguyễn Tuấn Minh
+MSV:  B20DCCN024
+Lop:  E20CQCN01-B
+Mail:  MinhNT.B20CN024@stu.ptit.edu.vn
+Date:  21/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Đức Minh
+MSV:  B20DCCN025
+Lop:  D20CQCN11-B
+Mail:  MinhTD.B20CN025@stu.ptit.edu.vn
+Date:  20/06/2002
+SDT:  0338276298
+-------------------------------------------------
+Ten:  Đinh Hữu Nam
+MSV:  B20DCCN026
+Lop:  D20CQCN12-B
+Mail:  dinhhuunam.job@gmail.com
+Date:  30/03/2001
+SDT:  0943178566
+-------------------------------------------------
+Ten:  Hà Giang Nam
+MSV:  B20DCCN027
+Lop:  D20CQCN01-B
+Mail:  NamHG.B20CN027@stu.ptit.edu.vn
+Date:  26/07/2002
+SDT:  0865237112
+-------------------------------------------------
+Ten:  Hà Hải Nam
+MSV:  B20DCCN028
+Lop:  D20CQCN02-B
+Mail:  NamHH.B20CN028@stu.ptit.edu.vn
+Date:  19/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Tuấn Nhật
+MSV:  B20DCCN029
+Lop:  D20CQCN03-B
+Mail:  NhatBT.B20CN029@stu.ptit.edu.vn
+Date:  14/02/2002
+SDT:  0961172025
+-------------------------------------------------
+Ten:  Phan Thị Dung Nhi
+MSV:  B20DCCN030
+Lop:  D20CQCN04-B
+Mail:  NhiPTD.B20CN030@stu.ptit.edu.vn
+Date:  14/08/2002
+SDT:  0367813012
+-------------------------------------------------
+Ten:  Bùi Mạnh Phúc
+MSV:  B20DCCN031
+Lop:  D20CQCN05-B
+Mail:  PhucBM.B20CN031@stu.ptit.edu.vn
+Date:  26/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Đăng Quang
+MSV:  B20DCCN032
+Lop:  D20CQCN06-B
+Mail:  
+Date:  25/01/2002
+SDT:  0972188062
+-------------------------------------------------
+Ten:  Nguyễn Văn Thắng
+MSV:  B20DCCN033
+Lop:  D20CQCN07-B
+Mail:  ThangNV.B20CN033@stu.ptit.edu.vn
+Date:  13/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Đức Thành
+MSV:  B20DCCN034
+Lop:  E20CQCN01-B
+Mail:  ThanhLD.B20CN034@stu.ptit.edu.vn
+Date:  09/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vương Duy Đức Tú
+MSV:  B20DCCN035
+Lop:  D20CQCN09-B
+Mail:  TuVDD.B20CN035@stu.ptit.edu.vn
+Date:  03/11/2002
+SDT:  0963394281
+-------------------------------------------------
+Ten:  Nguyễn Minh Tuân
+MSV:  B20DCCN036
+Lop:  D20CQCN10-B
+Mail:  TuanNM.B20CN036@stu.ptit.edu.vn
+Date:  26/11/2002
+SDT:  0358936326
+-------------------------------------------------
+Ten:  Trịnh Minh Tuấn
+MSV:  B20DCCN037
+Lop:  D20CQCN11-B
+Mail:  TuanTM.B20CN037@stu.ptit.edu.vn
+Date:  22/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đình Tùng
+MSV:  B20DCCN038
+Lop:  E20CQCN01-B
+Mail:  TungND.B20CN038@stu.ptit.edu.vn
+Date:  06/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Nguyên Vũ
+MSV:  B20DCCN039
+Lop:  D20CQCN01-B
+Mail:  VuDN.B20CN039@stu.ptit.edu.vn
+Date:  31/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Anh Tuấn
+MSV:  B20DCCN040
+Lop:  D20CQCN04-B
+Mail:  TuanPA.B20CN040@stu.ptit.edu.vn
+Date:  11/11/2001
+SDT:  0829196098
+-------------------------------------------------
+Ten:  Nông Văn Mạnh
+MSV:  B20DCCN041
+Lop:  D20CQCN05-B
+Mail:  ManhNV.B20CN041@stu.ptit.edu.vn
+Date:  26/12/2001
+SDT:  0943718702
+-------------------------------------------------
+Ten:  Viên Ngọc Kỳ
+MSV:  B20DCCN042
+Lop:  D20CQCN06-B
+Mail:  KyVN.B20CN042@stu.ptit.edu.vn
+Date:  28/01/2001
+SDT:  0348124128
+-------------------------------------------------
+Ten:  Chu Văn An
+MSV:  B20DCCN043
+Lop:  D20CQCN07-B
+Mail:  AnCV.B20CN043@stu.ptit.edu.vn
+Date:  28/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Hải An
+MSV:  B20DCCN044
+Lop:  D20CQCN08-B
+Mail:  AnHH.B20CN044@stu.ptit.edu.vn
+Date:  02/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Văn An
+MSV:  B20DCCN045
+Lop:  D20CQCN09-B
+Mail:  AnHV.B20CN045@stu.ptit.edu.vn
+Date:  10/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Viết An
+MSV:  B20DCCN046
+Lop:  D20CQCN10-B
+Mail:  AnLV.B20CN046@stu.ptit.edu.vn
+Date:  29/07/2002
+SDT:  0962329793
+-------------------------------------------------
+Ten:  Nguyễn Trường An
+MSV:  B20DCCN047
+Lop:  D20CQCN11-B
+Mail:  AnNT.B20CN047@stu.ptit.edu.vn
+Date:  15/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Văn Anh
+MSV:  B20DCCN048
+Lop:  D20CQCN12-B
+Mail:  thangiohuayra@gmail.com
+Date:  22/02/2002
+SDT:  0878807022
+-------------------------------------------------
+Ten:  Bùi Việt Anh
+MSV:  B20DCCN049
+Lop:  D20CQCN01-B
+Mail:  AnhBV.B20CN049@stu.ptit.edu.vn
+Date:  08/01/2002
+SDT:  0395119564
+-------------------------------------------------
+Ten:  Đàm Thận Tuấn Anh
+MSV:  B20DCCN050
+Lop:  D20CQCN02-B
+Mail:  damthantuananh1202@gmail.com
+Date:  12/02/2002
+SDT:  0988025960
+-------------------------------------------------
+Ten:  Đỗ Như Phan Anh
+MSV:  B20DCCN051
+Lop:  D20CQCN03-B
+Mail:  AnhDNP.B20CN051@stu.ptit.edu.vn
+Date:  29/12/2002
+SDT:  0396626711
+-------------------------------------------------
+Ten:  Đỗ Tuấn Anh
+MSV:  B20DCCN052
+Lop:  D20CQCN04-B
+Mail:  AnhDT.B20CN052@stu.ptit.edu.vn
+Date:  18/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lã Thế Anh
+MSV:  B20DCCN053
+Lop:  D20CQCN05-B
+Mail:  AnhLT.B20CN053@stu.ptit.edu.vn
+Date:  17/09/2002
+SDT:  0849576188
+-------------------------------------------------
+Ten:  Lê Tuấn Anh
+MSV:  B20DCCN054
+Lop:  D20CQCN06-B
+Mail:  AnhLT.B20CN054@stu.ptit.edu.vn
+Date:  29/11/2002
+SDT:  0396655218
+-------------------------------------------------
+Ten:  Lê Trung Anh
+MSV:  B20DCCN055
+Lop:  D20CQCN07-B
+Mail:  AnhLT.B20CN055@stu.ptit.edu.vn
+Date:  20/07/2002
+SDT:  0373199558
+-------------------------------------------------
+Ten:  Nguyễn Đức Anh
+MSV:  B20DCCN056
+Lop:  D20CQCN08-B
+Mail:  
+Date:  23/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Anh
+MSV:  B20DCCN057
+Lop:  D20CQCN09-B
+Mail:  AnhND.B20CN057@stu.ptit.edu.vn
+Date:  25/11/2002
+SDT:  0839771889
+-------------------------------------------------
+Ten:  Nguyễn Hoàng Anh
+MSV:  B20DCCN058
+Lop:  D20CQCN10-B
+Mail:  AnhNH.B20CN058@stu.ptit.edu.vn
+Date:  17/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Ngọc Anh
+MSV:  B20DCCN059
+Lop:  D20CQCN11-B
+Mail:  AnhNN.B20CN059@stu.ptit.edu.vn
+Date:  25/10/2002
+SDT:  0353394062
+-------------------------------------------------
+Ten:  Nguyễn Phương Anh
+MSV:  B20DCCN060
+Lop:  D20CQCN12-B
+Mail:  AnhNP.B20CN060@stu.ptit.edu.vn
+Date:  24/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Phương Anh
+MSV:  B20DCCN061
+Lop:  D20CQCN01-B
+Mail:  AnhNP.B20CN061@stu.ptit.edu.vn
+Date:  02/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Quốc Anh
+MSV:  B20DCCN062
+Lop:  D20CQCN02-B
+Mail:  AnhNQ.B20CN062@stu.ptit.edu.vn
+Date:  20/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Tiến Anh
+MSV:  B20DCCN063
+Lop:  D20CQCN03-B
+Mail:  AnhNT.B20CN063@stu.ptit.edu.vn
+Date:  14/11/2002
+SDT:  0398134860
+-------------------------------------------------
+Ten:  Nguyễn Văn Tuấn Anh
+MSV:  B20DCCN064
+Lop:  D20CQCN04-B
+Mail:  AnhNVT.B20CN064@stu.ptit.edu.vn
+Date:  10/06/2002
+SDT:  0399602556
+-------------------------------------------------
+Ten:  Nguyễn Việt Anh
+MSV:  B20DCCN065
+Lop:  D20CQCN05-B
+Mail:  AnhNV.B20CN065@stu.ptit.edu.vn
+Date:  23/08/2002
+SDT:  0379280027
+-------------------------------------------------
+Ten:  Nguyễn Việt Anh
+MSV:  B20DCCN066
+Lop:  D20CQCN06-B
+Mail:  AnhNV.B20CN066@stu.ptit.edu.vn
+Date:  23/07/2002
+SDT:  0392990628
+-------------------------------------------------
+Ten:  Nguyễn Việt Anh
+MSV:  B20DCCN067
+Lop:  D20CQCN07-B
+Mail:  AnhNV.B20CN067@stu.ptit.edu.vn
+Date:  20/10/2002
+SDT:  0352707697
+-------------------------------------------------
+Ten:  Nguyễn Viết Thế Anh
+MSV:  B20DCCN068
+Lop:  D20CQCN08-B
+Mail:  AnhNVT.B20CN068@stu.ptit.edu.vn
+Date:  22/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Xuân Anh
+MSV:  B20DCCN069
+Lop:  D20CQCN09-B
+Mail:  AnhNX.B20CN069@stu.ptit.edu.vn
+Date:  05/01/2002
+SDT:  0936873209
+-------------------------------------------------
+Ten:  Phạm Đắc Anh
+MSV:  B20DCCN070
+Lop:  D20CQCN10-B
+Mail:  AnhPD.B20CN070@stu.ptit.edu.vn
+Date:  20/07/2002
+SDT:  0862233103
+-------------------------------------------------
+Ten:  Phạm Thị Phương Anh
+MSV:  B20DCCN071
+Lop:  D20CQCN11-B
+Mail:  AnhPTP.B20CN071@stu.ptit.edu.vn
+Date:  19/12/2002
+SDT:  0393706083
+-------------------------------------------------
+Ten:  Phan Văn Hoàng Anh
+MSV:  B20DCCN072
+Lop:  D20CQCN12-B
+Mail:  hoanganhphanvan2002@gmail.com
+Date:  19/10/2002
+SDT:  0978065091
+-------------------------------------------------
+Ten:  Tạ Việt Anh
+MSV:  B20DCCN073
+Lop:  D20CQCN01-B
+Mail:  tavietanh12002@gmail.com
+Date:  09/01/2002
+SDT:  0948519358
+-------------------------------------------------
+Ten:  Trần Hoàng Anh
+MSV:  B20DCCN074
+Lop:  D20CQCN02-B
+Mail:  AnhTH.B20CN074@stu.ptit.edu.vn
+Date:  19/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Vân Anh
+MSV:  B20DCCN075
+Lop:  D20CQCN03-B
+Mail:  tranvananh11012002@gmail.com
+Date:  11/01/2002
+SDT:  0382386867
+-------------------------------------------------
+Ten:  Trịnh Việt Anh
+MSV:  B20DCCN076
+Lop:  D20CQCN04-B
+Mail:  AnhTV.B20CN076@stu.ptit.edu.vn
+Date:  08/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trương Tuấn Anh
+MSV:  B20DCCN077
+Lop:  D20CQCN05-B
+Mail:  AnhTT.B20CN077@stu.ptit.edu.vn
+Date:  14/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Đặng Hoàng Anh
+MSV:  B20DCCN078
+Lop:  D20CQCN06-B
+Mail:  AnhVDH.B20CN078@stu.ptit.edu.vn
+Date:  11/04/2002
+SDT:  0971301148
+-------------------------------------------------
+Ten:  Vũ Hoàng Anh
+MSV:  B20DCCN079
+Lop:  D20CQCN07-B
+Mail:  AnhVH.B20CN079@stu.ptit.edu.vn
+Date:  01/01/2002
+SDT:  0981579271
+-------------------------------------------------
+Ten:  Vũ Hoàng Anh
+MSV:  B20DCCN080
+Lop:  D20CQCN08-B
+Mail:  AnhVH.B20CN080@stu.ptit.edu.vn
+Date:  09/11/2002
+SDT:  0385994124
+-------------------------------------------------
+Ten:  Vũ Mai Anh
+MSV:  B20DCCN081
+Lop:  D20CQCN09-B
+Mail:  AnhVM.B20CN081@stu.ptit.edu.vn
+Date:  31/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Thị Nguyệt Ánh
+MSV:  B20DCCN082
+Lop:  D20CQCN10-B
+Mail:  AnhBTN.B20CN082@stu.ptit.edu.vn
+Date:  15/09/2002
+SDT:  0985543626
+-------------------------------------------------
+Ten:  Lê Hồng Ánh
+MSV:  B20DCCN083
+Lop:  D20CQCN11-B
+Mail:  AnhLH.B20CN083@stu.ptit.edu.vn
+Date:  17/10/2002
+SDT:  0961148064
+-------------------------------------------------
+Ten:  Nguyễn Thị Ánh
+MSV:  B20DCCN084
+Lop:  D20CQCN12-B
+Mail:  AnhNT.B20CN084@stu.ptit.edu.vn
+Date:  15/11/2002
+SDT:  0982719307
+-------------------------------------------------
+Ten:  Ngô Xuân Bách
+MSV:  B20DCCN085
+Lop:  D20CQCN01-B
+Mail:  BachNX.B20CN085@stu.ptit.edu.vn
+Date:  25/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hồ Sỹ Bảo
+MSV:  B20DCCN086
+Lop:  D20CQCN02-B
+Mail:  BaoHS.B20CN086@stu.ptit.edu.vn
+Date:  12/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lưu Gia Bảo
+MSV:  B20DCCN087
+Lop:  D20CQCN03-B
+Mail:  bao2002pytn@gmail.com
+Date:  30/01/2002
+SDT:  0523669892
+-------------------------------------------------
+Ten:  Phạm Quốc Bảo
+MSV:  B20DCCN088
+Lop:  D20CQCN04-B
+Mail:  kudoshikadai@gmail.com
+Date:  03/02/2002
+SDT:  0852994950
+-------------------------------------------------
+Ten:  Nguyễn Trọng Bắc
+MSV:  B20DCCN089
+Lop:  D20CQCN05-B
+Mail:  BacNT.B20CN089@stu.ptit.edu.vn
+Date:  08/11/2002
+SDT:  0823913381
+-------------------------------------------------
+Ten:  Ngô Công Bằng
+MSV:  B20DCCN090
+Lop:  D20CQCN06-B
+Mail:  ngocongbang.ptit@gmail.com
+Date:  23/01/2001
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Trọng Biên
+MSV:  B20DCCN091
+Lop:  D20CQCN07-B
+Mail:  ptbien264@gmail.com
+Date:  24/10/2002
+SDT:  0387948017
+-------------------------------------------------
+Ten:  Bùi Nguyên Bình
+MSV:  B20DCCN092
+Lop:  D20CQCN08-B
+Mail:  BinhBN.B20CN092@stu.ptit.edu.vn
+Date:  27/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Phan Thanh Bình
+MSV:  B20DCCN093
+Lop:  D20CQCN09-B
+Mail:  BinhLPT.B20CN093@stu.ptit.edu.vn
+Date:  02/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Hoành Cao
+MSV:  B20DCCN094
+Lop:  D20CQCN10-B
+Mail:  CaoDH.B20CN094@stu.ptit.edu.vn
+Date:  27/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Thành Công
+MSV:  B20DCCN095
+Lop:  D20CQCN11-B
+Mail:  CongDT.B20CN095@stu.ptit.edu.vn
+Date:  19/03/2002
+SDT:  0868742650
+-------------------------------------------------
+Ten:  Quách Thành Công
+MSV:  B20DCCN096
+Lop:  D20CQCN12-B
+Mail:  CongQT.B20CN096@stu.ptit.edu.vn
+Date:  25/05/2002
+SDT:  0382516427
+-------------------------------------------------
+Ten:  Tạ Tô Chí Cương
+MSV:  B20DCCN097
+Lop:  D20CQCN01-B
+Mail:  CuongTTC.B20CN097@stu.ptit.edu.vn
+Date:  07/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đinh Xuân Cường
+MSV:  B20DCCN098
+Lop:  D20CQCN02-B
+Mail:  CuongDX.B20CN098@stu.ptit.edu.vn
+Date:  30/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Việt Cường
+MSV:  B20DCCN099
+Lop:  D20CQCN03-B
+Mail:  CuongHV.B20CN099@stu.ptit.edu.vn
+Date:  25/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Mạnh Cường
+MSV:  B20DCCN100
+Lop:  D20CQCN04-B
+Mail:  CuongLM.B20CN100@stu.ptit.edu.vn
+Date:  13/09/2002
+SDT:  0862200319
+-------------------------------------------------
+Ten:  Lê Trí Cường
+MSV:  B20DCCN101
+Lop:  D20CQCN05-B
+Mail:  CuongLT.B20CN101@stu.ptit.edu.vn
+Date:  11/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Mạnh Cường
+MSV:  B20DCCN102
+Lop:  D20CQCN06-B
+Mail:  CuongNM.B20CN102@stu.ptit.edu.vn
+Date:  03/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Cường
+MSV:  B20DCCN103
+Lop:  D20CQCN07-B
+Mail:  CuongNV.B20CN103@stu.ptit.edu.vn
+Date:  20/03/2002
+SDT:  0988795319
+-------------------------------------------------
+Ten:  Nguyễn Xuân Cường
+MSV:  B20DCCN104
+Lop:  D20CQCN08-B
+Mail:  CuongNX.B20CN104@stu.ptit.edu.vn
+Date:  02/09/2002
+SDT:  0346435328
+-------------------------------------------------
+Ten:  Phạm Ngọc Cường
+MSV:  B20DCCN105
+Lop:  D20CQCN09-B
+Mail:  CuongPN.B20CN105@stu.ptit.edu.vn
+Date:  03/02/2002
+SDT:  0867973943
+-------------------------------------------------
+Ten:  Phạm Quốc Cường
+MSV:  B20DCCN106
+Lop:  D20CQCN10-B
+Mail:  CuongPQ.B20CN106@stu.ptit.edu.vn
+Date:  13/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Quốc Cường
+MSV:  B20DCCN107
+Lop:  D20CQCN11-B
+Mail:  CuongPQ.B20CN107@stu.ptit.edu.vn
+Date:  17/07/2002
+SDT:  0368002731
+-------------------------------------------------
+Ten:  Vũ Nguyễn Cường
+MSV:  B20DCCN108
+Lop:  D20CQCN12-B
+Mail:  CuongVN.B20CN108@stu.ptit.edu.vn
+Date:  05/05/2002
+SDT:  0967232097
+-------------------------------------------------
+Ten:  Trần Minh Châu
+MSV:  B20DCCN109
+Lop:  D20CQCN01-B
+Mail:  chauminhtran2@gmail.com
+Date:  23/03/2002
+SDT:  0396024810
+-------------------------------------------------
+Ten:  Đỗ Trần Chí
+MSV:  B20DCCN110
+Lop:  D20CQCN02-B
+Mail:  ChiDT.B20CN110@stu.ptit.edu.vn
+Date:  12/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Minh Chí
+MSV:  B20DCCN111
+Lop:  D20CQCN03-B
+Mail:  ChiNM.B20CN111@stu.ptit.edu.vn
+Date:  15/09/2002
+SDT:  0966750314
+-------------------------------------------------
+Ten:  Trịnh Phúc Chiến
+MSV:  B20DCCN112
+Lop:  D20CQCN04-B
+Mail:  ChienTP.B20CN112@stu.ptit.edu.vn
+Date:  20/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Chinh
+MSV:  B20DCCN113
+Lop:  D20CQCN05-B
+Mail:  chinh6095@gmail.com
+Date:  23/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Mai Chinh
+MSV:  B20DCCN114
+Lop:  D20CQCN06-B
+Mail:  maichinh17092002@gmail.com
+Date:  17/09/2002
+SDT:  0948266581
+-------------------------------------------------
+Ten:  Nguyễn Quang Chính
+MSV:  B20DCCN115
+Lop:  D20CQCN07-B
+Mail:  ChinhNQ.B20CN115@stu.ptit.edu.vn
+Date:  03/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Đức Chính
+MSV:  B20DCCN116
+Lop:  D20CQCN08-B
+Mail:  ChinhPD.B20CN116@stu.ptit.edu.vn
+Date:  20/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Văn Chính
+MSV:  B20DCCN117
+Lop:  D20CQCN09-B
+Mail:  ChinhPV.B20CN117@stu.ptit.edu.vn
+Date:  01/01/2001
+SDT:  0867630137
+-------------------------------------------------
+Ten:  Tô Đức Chính
+MSV:  B20DCCN118
+Lop:  D20CQCN10-B
+Mail:  ChinhTD.B20CN118@stu.ptit.edu.vn
+Date:  17/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Đức Chính
+MSV:  B20DCCN119
+Lop:  D20CQCN11-B
+Mail:  ChinhVD.B20CN119@stu.ptit.edu.vn
+Date:  14/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thành Chung
+MSV:  B20DCCN120
+Lop:  D20CQCN12-B
+Mail:  ChungNT.B20CN120@stu.ptit.edu.vn
+Date:  02/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Dáng
+MSV:  B20DCCN121
+Lop:  D20CQCN01-B
+Mail:  dangdang30032002@gmail.com
+Date:  30/03/2002
+SDT:  0984963506
+-------------------------------------------------
+Ten:  Trịnh Quyền Diệp
+MSV:  B20DCCN122
+Lop:  D20CQCN02-B
+Mail:  DiepTQ.B20CN122@stu.ptit.edu.vn
+Date:  21/02/2002
+SDT:  0971715520
+-------------------------------------------------
+Ten:  Bùi Xuân Diệu
+MSV:  B20DCCN123
+Lop:  D20CQCN03-B
+Mail:  DieuBX.B20CN123@stu.ptit.edu.vn
+Date:  08/12/2002
+SDT:  0942305936
+-------------------------------------------------
+Ten:  Nguyễn Quốc Doanh
+MSV:  B20DCCN124
+Lop:  D20CQCN04-B
+Mail:  nqdcntt@gmail.com
+Date:  16/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Huy Du
+MSV:  B20DCCN125
+Lop:  D20CQCN05-B
+Mail:  DuNH.B20CN125@stu.ptit.edu.vn
+Date:  08/01/2002
+SDT:  0945332786
+-------------------------------------------------
+Ten:  Đỗ Thị Dung
+MSV:  B20DCCN126
+Lop:  D20CQCN06-B
+Mail:  DungDT.B20CN126@stu.ptit.edu.vn
+Date:  30/05/2002
+SDT:  0862611512
+-------------------------------------------------
+Ten:  Hà Thu Dung
+MSV:  B20DCCN127
+Lop:  D20CQCN07-B
+Mail:  DungHT.B20CN127@stu.ptit.edu.vn
+Date:  27/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Cao Duy Dũng
+MSV:  B20DCCN128
+Lop:  D20CQCN08-B
+Mail:  caoduydung101@gmail.com
+Date:  20/11/2002
+SDT:  0349522135
+-------------------------------------------------
+Ten:  Chu Tiến Dũng
+MSV:  B20DCCN129
+Lop:  D20CQCN09-B
+Mail:  tiendungchu298@gmail.com
+Date:  29/08/2002
+SDT:  0917099188
+-------------------------------------------------
+Ten:  Đàm Tuấn Dũng
+MSV:  B20DCCN130
+Lop:  D20CQCN10-B
+Mail:  DungDT.B20CN130@stu.ptit.edu.vn
+Date:  28/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Anh Dũng
+MSV:  B20DCCN131
+Lop:  D20CQCN11-B
+Mail:  DungHA.B20CN131@stu.ptit.edu.vn
+Date:  04/10/2002
+SDT:  0989827302
+-------------------------------------------------
+Ten:  Lê Hoàng Dũng
+MSV:  B20DCCN132
+Lop:  D20CQCN12-B
+Mail:  DungLH.B20CN132@stu.ptit.edu.vn
+Date:  21/04/2002
+SDT:  0868942160
+-------------------------------------------------
+Ten:  Lê Quang Dũng
+MSV:  B20DCCN133
+Lop:  D20CQCN01-B
+Mail:  sankatana02@gmail.com
+Date:  01/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Tiến Dũng
+MSV:  B20DCCN134
+Lop:  D20CQCN02-B
+Mail:  DungLT.B20CN134@stu.ptit.edu.vn
+Date:  21/08/2002
+SDT:  0328199235
+-------------------------------------------------
+Ten:  Lê Văn Dũng
+MSV:  B20DCCN135
+Lop:  D20CQCN03-B
+Mail:  dung2892002ts@gmail.com
+Date:  28/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Văn Dũng
+MSV:  B20DCCN136
+Lop:  D20CQCN04-B
+Mail:  DungLV.B20CN136@stu.ptit.edu.vn
+Date:  02/05/2002
+SDT:  0355961899
+-------------------------------------------------
+Ten:  Lưu Văn Dũng
+MSV:  B20DCCN137
+Lop:  D20CQCN05-B
+Mail:  
+Date:  01/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Mạnh Dũng
+MSV:  B20DCCN138
+Lop:  D20CQCN06-B
+Mail:  DungNM.B20CN138@stu.ptit.edu.vn
+Date:  15/12/2002
+SDT:  0375409251
+-------------------------------------------------
+Ten:  Nguyễn Trọng Dũng
+MSV:  B20DCCN139
+Lop:  D20CQCN07-B
+Mail:  DungNT.B20CN139@stu.ptit.edu.vn
+Date:  05/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trung Dũng
+MSV:  B20DCCN140
+Lop:  D20CQCN08-B
+Mail:  DungNT.B20CN140@stu.ptit.edu.vn
+Date:  13/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phùng Trọng Dũng
+MSV:  B20DCCN141
+Lop:  D20CQCN09-B
+Mail:  DungPT.B20CN141@stu.ptit.edu.vn
+Date:  01/05/2002
+SDT:  0357011893
+-------------------------------------------------
+Ten:  Vũ Cao Dũng
+MSV:  B20DCCN142
+Lop:  D20CQCN10-B
+Mail:  DungVC.B20CN142@stu.ptit.edu.vn
+Date:  09/09/2002
+SDT:  0828007926
+-------------------------------------------------
+Ten:  Vũ Quang Dũng
+MSV:  B20DCCN143
+Lop:  D20CQCN11-B
+Mail:  DungVQ.B20CN143@stu.ptit.edu.vn
+Date:  14/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Văn Dũng
+MSV:  B20DCCN144
+Lop:  D20CQCN12-B
+Mail:  DungVV.B20CN144@stu.ptit.edu.vn
+Date:  30/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Xuân Duy
+MSV:  B20DCCN145
+Lop:  D20CQCN01-B
+Mail:  DuyBX.B20CN145@stu.ptit.edu.vn
+Date:  13/01/2002
+SDT:  0867858728
+-------------------------------------------------
+Ten:  Đào Quang Duy
+MSV:  B20DCCN146
+Lop:  D20CQCN02-B
+Mail:  DuyDQ.B20CN146@stu.ptit.edu.vn
+Date:  22/10/2002
+SDT:  0372067464
+-------------------------------------------------
+Ten:  Đinh Quang Duy
+MSV:  B20DCCN147
+Lop:  D20CQCN03-B
+Mail:  DuyDQ.B20CN147@stu.ptit.edu.vn
+Date:  28/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Bá Duy
+MSV:  B20DCCN148
+Lop:  D20CQCN04-B
+Mail:  DuyDB.B20CN148@stu.ptit.edu.vn
+Date:  12/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Mạnh Duy
+MSV:  B20DCCN149
+Lop:  D20CQCN05-B
+Mail:  DuyDM.B20CN149@stu.ptit.edu.vn
+Date:  05/05/2002
+SDT:  0344092469
+-------------------------------------------------
+Ten:  Hoàng Hải Duy
+MSV:  B20DCCN150
+Lop:  D20CQCN06-B
+Mail:  DuyHH.B20CN150@stu.ptit.edu.vn
+Date:  01/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lâm Khánh Duy
+MSV:  B20DCCN151
+Lop:  D20CQCN07-B
+Mail:  DuyLK.B20CN151@stu.ptit.edu.vn
+Date:  04/03/2002
+SDT:  0523460854
+-------------------------------------------------
+Ten:  Lê Hồng Duy
+MSV:  B20DCCN152
+Lop:  D20CQCN08-B
+Mail:  DuyLH.B20CN152@stu.ptit.edu.vn
+Date:  11/09/2002
+SDT:  0367382925
+-------------------------------------------------
+Ten:  Lê Minh Duy
+MSV:  B20DCCN153
+Lop:  D20CQCN09-B
+Mail:  DuyLM.B20CN153@stu.ptit.edu.vn
+Date:  13/10/2002
+SDT:  0865626710
+-------------------------------------------------
+Ten:  Nguyễn Đức Duy
+MSV:  B20DCCN154
+Lop:  D20CQCN10-B
+Mail:  DuyND.B20CN154@stu.ptit.edu.vn
+Date:  06/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hữu Duy
+MSV:  B20DCCN155
+Lop:  D20CQCN11-B
+Mail:  DuyNH.B20CN155@stu.ptit.edu.vn
+Date:  21/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Khánh Duy
+MSV:  B20DCCN156
+Lop:  D20CQCN12-B
+Mail:  DuyNK.B20CN156@stu.ptit.edu.vn
+Date:  22/05/2001
+SDT:  
+-------------------------------------------------
+Ten:  Dương Quang Dự
+MSV:  B20DCCN157
+Lop:  D20CQCN01-B
+Mail:  duongdu202@gmail.com
+Date:  12/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Đăng Dương
+MSV:  B20DCCN158
+Lop:  D20CQCN02-B
+Mail:  dodangduong16102k2@gmail.com
+Date:  16/10/2002
+SDT:  0968413171
+-------------------------------------------------
+Ten:  Lê Thị Thùy Dương
+MSV:  B20DCCN159
+Lop:  D20CQCN03-B
+Mail:  DuongLTT.B20CN159@stu.ptit.edu.vn
+Date:  13/05/2002
+SDT:  0855007615
+-------------------------------------------------
+Ten:  Nguyễn Đăng Dương
+MSV:  B20DCCN160
+Lop:  D20CQCN04-B
+Mail:  DuongND.B20CN160@stu.ptit.edu.vn
+Date:  25/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Tùng Dương
+MSV:  B20DCCN161
+Lop:  D20CQCN05-B
+Mail:  ntdg126@gmail.com
+Date:  17/12/2002
+SDT:  0867033296
+-------------------------------------------------
+Ten:  Nguyễn Tùng Dương
+MSV:  B20DCCN162
+Lop:  D20CQCN06-B
+Mail:  DuongNT.B20CN162@stu.ptit.edu.vn
+Date:  06/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Tùng Dương
+MSV:  B20DCCN163
+Lop:  D20CQCN07-B
+Mail:  DuongPT.B20CN163@stu.ptit.edu.vn
+Date:  06/03/2002
+SDT:  0969613858
+-------------------------------------------------
+Ten:  Phan Quang Dương
+MSV:  B20DCCN164
+Lop:  D20CQCN08-B
+Mail:  
+Date:  08/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Ánh Dương
+MSV:  B20DCCN165
+Lop:  D20CQCN09-B
+Mail:  DuongTA.B20CN165@stu.ptit.edu.vn
+Date:  21/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Quang Đại
+MSV:  B20DCCN166
+Lop:  D20CQCN10-B
+Mail:  DaiBQ.B20CN166@stu.ptit.edu.vn
+Date:  05/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Huy Bách Đại
+MSV:  B20DCCN167
+Lop:  D20CQCN11-B
+Mail:  DaiTHB.B20CN167@stu.ptit.edu.vn
+Date:  20/01/2002
+SDT:  0946381812
+-------------------------------------------------
+Ten:  Vũ Thế Đại
+MSV:  B20DCCN168
+Lop:  D20CQCN12-B
+Mail:  DaiVT.B20CN168@stu.ptit.edu.vn
+Date:  09/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Chu Bá Đạt
+MSV:  B20DCCN169
+Lop:  D20CQCN01-B
+Mail:  DatCB.B20CN169@stu.ptit.edu.vn
+Date:  26/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Doãn Mạnh Đạt
+MSV:  B20DCCN170
+Lop:  D20CQCN02-B
+Mail:  DatDM.B20CN170@stu.ptit.edu.vn
+Date:  11/01/2002
+SDT:  0365761511
+-------------------------------------------------
+Ten:  Dương Xuân Đạt
+MSV:  B20DCCN171
+Lop:  D20CQCN03-B
+Mail:  DatDX.B20CN171@stu.ptit.edu.vn
+Date:  11/11/2002
+SDT:  0354384621
+-------------------------------------------------
+Ten:  Đặng Quốc Đạt
+MSV:  B20DCCN172
+Lop:  D20CQCN04-B
+Mail:  the.great.dat@gmail.com
+Date:  11/09/2002
+SDT:  0336834378
+-------------------------------------------------
+Ten:  Lý Văn Đạt
+MSV:  B20DCCN173
+Lop:  D20CQCN05-B
+Mail:  DatLV.B20CN173@stu.ptit.edu.vn
+Date:  18/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Mai Văn Đạt
+MSV:  B20DCCN174
+Lop:  D20CQCN06-B
+Mail:  DatMV.B20CN174@stu.ptit.edu.vn
+Date:  17/08/2002
+SDT:  0332080332
+-------------------------------------------------
+Ten:  Nguyễn Thành Đạt
+MSV:  B20DCCN175
+Lop:  D20CQCN07-B
+Mail:  DatNT.B20CN175@stu.ptit.edu.vn
+Date:  19/12/2002
+SDT:  0888124154
+-------------------------------------------------
+Ten:  Phạm Văn Đạt
+MSV:  B20DCCN176
+Lop:  D20CQCN08-B
+Mail:  DatPV.B20CN176@stu.ptit.edu.vn
+Date:  26/08/2002
+SDT:  0344832564
+-------------------------------------------------
+Ten:  Phùng Văn Đạt
+MSV:  B20DCCN177
+Lop:  D20CQCN09-B
+Mail:  DatPV.B20CN177@stu.ptit.edu.vn
+Date:  19/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Tống Tiến Đạt
+MSV:  B20DCCN178
+Lop:  D20CQCN10-B
+Mail:  DatTT.B20CN178@stu.ptit.edu.vn
+Date:  26/06/2002
+SDT:  0984035467
+-------------------------------------------------
+Ten:  Trần Tiến Đạt
+MSV:  B20DCCN179
+Lop:  D20CQCN11-B
+Mail:  DatTT.B20CN179@stu.ptit.edu.vn
+Date:  21/08/2002
+SDT:  0393556431
+-------------------------------------------------
+Ten:  Vũ Hữu Đạt
+MSV:  B20DCCN180
+Lop:  D20CQCN12-B
+Mail:  DatVH.B20CN180@stu.ptit.edu.vn
+Date:  29/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Tiến Đạt
+MSV:  B20DCCN181
+Lop:  D20CQCN01-B
+Mail:  DatVT.B20CN181@stu.ptit.edu.vn
+Date:  18/08/2002
+SDT:  0898724860
+-------------------------------------------------
+Ten:  Bùi Mạnh Đắc
+MSV:  B20DCCN182
+Lop:  D20CQCN02-B
+Mail:  DacBM.B20CN182@stu.ptit.edu.vn
+Date:  14/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Tấn Đăng
+MSV:  B20DCCN183
+Lop:  D20CQCN03-B
+Mail:  DangNT.B20CN183@stu.ptit.edu.vn
+Date:  20/05/2002
+SDT:  0914010869
+-------------------------------------------------
+Ten:  Trần Ngọc Đăng
+MSV:  B20DCCN184
+Lop:  D20CQCN04-B
+Mail:  DangTN.B20CN184@stu.ptit.edu.vn
+Date:  05/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Ngọc Đăng
+MSV:  B20DCCN185
+Lop:  D20CQCN05-B
+Mail:  DangTN.B20CN185@stu.ptit.edu.vn
+Date:  24/10/2002
+SDT:  0936610733
+-------------------------------------------------
+Ten:  Nguyễn Văn Điểm
+MSV:  B20DCCN186
+Lop:  D20CQCN06-B
+Mail:  DiemNV.B20CN186@stu.ptit.edu.vn
+Date:  14/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Minh Điệp
+MSV:  B20DCCN187
+Lop:  D20CQCN07-B
+Mail:  DiepPM.B20CN187@stu.ptit.edu.vn
+Date:  23/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Văn Điệu
+MSV:  B20DCCN188
+Lop:  D20CQCN08-B
+Mail:  DieuHV.B20CN188@stu.ptit.edu.vn
+Date:  22/03/2002
+SDT:  0387367162
+-------------------------------------------------
+Ten:  Bùi Văn Đô
+MSV:  B20DCCN189
+Lop:  D20CQCN09-B
+Mail:  DoBV.B20CN189@stu.ptit.edu.vn
+Date:  23/10/2002
+SDT:  0352294326
+-------------------------------------------------
+Ten:  Nguyễn Văn Đô
+MSV:  B20DCCN190
+Lop:  D20CQCN10-B
+Mail:  DoNV.B20CN190@stu.ptit.edu.vn
+Date:  09/01/2001
+SDT:  0376548293
+-------------------------------------------------
+Ten:  Bùi Anh Độ
+MSV:  B20DCCN191
+Lop:  D20CQCN11-B
+Mail:  DoBA.B20CN191@stu.ptit.edu.vn
+Date:  26/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đào Xuân Đồng
+MSV:  B20DCCN192
+Lop:  D20CQCN12-B
+Mail:  DongDX.B20CN192@stu.ptit.edu.vn
+Date:  24/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Dương Hồng Đức
+MSV:  B20DCCN193
+Lop:  D20CQCN01-B
+Mail:  hongduc20062002@gmail.com
+Date:  20/06/2002
+SDT:  0339230195
+-------------------------------------------------
+Ten:  Đặng Anh Đức
+MSV:  B20DCCN194
+Lop:  D20CQCN02-B
+Mail:  DucDA.B20CN194@stu.ptit.edu.vn
+Date:  08/05/2002
+SDT:  0928145726
+-------------------------------------------------
+Ten:  Đoàn Minh Đức
+MSV:  B20DCCN195
+Lop:  E20CQCN01-B
+Mail:  DucDM.B20CN195@stu.ptit.edu.vn
+Date:  12/10/2002
+SDT:  0944055728
+-------------------------------------------------
+Ten:  Hoàng Minh Đức
+MSV:  B20DCCN196
+Lop:  D20CQCN04-B
+Mail:  maxholmes221b@gmail.com
+Date:  17/09/2002
+SDT:  0375677759
+-------------------------------------------------
+Ten:  Hoàng Minh Đức
+MSV:  B20DCCN197
+Lop:  D20CQCN05-B
+Mail:  DucHM.B20CN197@stu.ptit.edu.vn
+Date:  23/08/2002
+SDT:  0336124914
+-------------------------------------------------
+Ten:  Nguyễn Khánh Đức
+MSV:  B20DCCN198
+Lop:  D20CQCN06-B
+Mail:  DucNK.B20CN198@stu.ptit.edu.vn
+Date:  02/09/2002
+SDT:  0364867861
+-------------------------------------------------
+Ten:  Nguyễn Văn Đức
+MSV:  B20DCCN199
+Lop:  D20CQCN07-B
+Mail:  DucNV.B20CN199@stu.ptit.edu.vn
+Date:  04/05/2001
+SDT:  
+-------------------------------------------------
+Ten:  Phan Anh Đức
+MSV:  B20DCCN200
+Lop:  D20CQCN08-B
+Mail:  DucPA.B20CN200@stu.ptit.edu.vn
+Date:  11/09/2002
+SDT:  0865505918
+-------------------------------------------------
+Ten:  Trương Quang Đức
+MSV:  B20DCCN201
+Lop:  D20CQCN09-B
+Mail:  DucTQ.B20CN201@stu.ptit.edu.vn
+Date:  26/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Minh Đức
+MSV:  B20DCCN202
+Lop:  D20CQCN10-B
+Mail:  DucVM.B20CN202@stu.ptit.edu.vn
+Date:  13/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Luật Trường Giang
+MSV:  B20DCCN203
+Lop:  D20CQCN11-B
+Mail:  GiangDLT.B20CN203@stu.ptit.edu.vn
+Date:  31/03/2000
+SDT:  0989415305
+-------------------------------------------------
+Ten:  Kiều Minh Giang
+MSV:  B20DCCN204
+Lop:  D20CQCN12-B
+Mail:  giang41245@gmail.com
+Date:  31/07/2002
+SDT:  0384052064
+-------------------------------------------------
+Ten:  Nguyễn Đắc Trường Giang
+MSV:  B20DCCN205
+Lop:  D20CQCN01-B
+Mail:  GiangNDT.B20CN205@stu.ptit.edu.vn
+Date:  08/02/2002
+SDT:  0976259840
+-------------------------------------------------
+Ten:  Nguyễn Thị Giang
+MSV:  B20DCCN206
+Lop:  D20CQCN02-B
+Mail:  GiangNT.B20CN206@stu.ptit.edu.vn
+Date:  23/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Hương Giang
+MSV:  B20DCCN207
+Lop:  D20CQCN03-B
+Mail:  GiangPH.B20CN207@stu.ptit.edu.vn
+Date:  26/07/2002
+SDT:  0971194706
+-------------------------------------------------
+Ten:  Phạm Trường Giang
+MSV:  B20DCCN208
+Lop:  E20CQCN01-B
+Mail:  GiangPT.B20CN208@stu.ptit.edu.vn
+Date:  10/06/2002
+SDT:  0343610602
+-------------------------------------------------
+Ten:  Nguyễn Đức Giao
+MSV:  B20DCCN209
+Lop:  D20CQCN05-B
+Mail:  GiaoND.B20CN209@stu.ptit.edu.vn
+Date:  13/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Dương Thu Hà
+MSV:  B20DCCN210
+Lop:  D20CQCN06-B
+Mail:  HaDT.B20CN210@stu.ptit.edu.vn
+Date:  14/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đàm Trọng Ngọc Hà
+MSV:  B20DCCN211
+Lop:  D20CQCN07-B
+Mail:  HaDTN.B20CN211@stu.ptit.edu.vn
+Date:  10/11/2002
+SDT:  0819133189
+-------------------------------------------------
+Ten:  Đỗ Thu Hà
+MSV:  B20DCCN212
+Lop:  D20CQCN08-B
+Mail:  HaDT.B20CN212@stu.ptit.edu.vn
+Date:  09/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hoàng Hà
+MSV:  B20DCCN213
+Lop:  D20CQCN09-B
+Mail:  nha0949857534@gmail.com
+Date:  12/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Sơn Hà
+MSV:  B20DCCN214
+Lop:  D20CQCN10-B
+Mail:  HaNS.B20CN214@stu.ptit.edu.vn
+Date:  26/12/2002
+SDT:  0398939824
+-------------------------------------------------
+Ten:  Phan Thị Thu Hà
+MSV:  B20DCCN215
+Lop:  D20CQCN11-B
+Mail:  HaPTT.B20CN215@stu.ptit.edu.vn
+Date:  10/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Nguyệt Hà
+MSV:  B20DCCN216
+Lop:  D20CQCN12-B
+Mail:  HaVN.B20CN216@stu.ptit.edu.vn
+Date:  26/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Đức Hải
+MSV:  B20DCCN217
+Lop:  D20CQCN01-B
+Mail:  HaiBD.B20CN217@stu.ptit.edu.vn
+Date:  25/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Cao Duy Hải
+MSV:  B20DCCN218
+Lop:  D20CQCN02-B
+Mail:  caoduyhai008@gmail.com
+Date:  27/08/2002
+SDT:  0356639522
+-------------------------------------------------
+Ten:  Cao Thanh Hải
+MSV:  B20DCCN219
+Lop:  D20CQCN03-B
+Mail:  HaiCT.B20CN219@stu.ptit.edu.vn
+Date:  03/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đặng Hoàng Hải
+MSV:  B20DCCN220
+Lop:  D20CQCN04-B
+Mail:  Hai0973839203@gmail.com
+Date:  18/01/2003
+SDT:  0973839203
+-------------------------------------------------
+Ten:  Nguyễn Việt Hải
+MSV:  B20DCCN221
+Lop:  D20CQCN05-B
+Mail:  HaiNV.B20CN221@stu.ptit.edu.vn
+Date:  23/07/2002
+SDT:  0869768985
+-------------------------------------------------
+Ten:  Phạm Tiến Hải
+MSV:  B20DCCN222
+Lop:  D20CQCN06-B
+Mail:  HaiPT.B20CN222@stu.ptit.edu.vn
+Date:  06/01/2002
+SDT:  0342422548
+-------------------------------------------------
+Ten:  Trần Đình Hải
+MSV:  B20DCCN223
+Lop:  D20CQCN07-B
+Mail:  HaiTD.B20CN223@stu.ptit.edu.vn
+Date:  07/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Ngọc Hải
+MSV:  B20DCCN224
+Lop:  D20CQCN08-B
+Mail:  AP06112002@gmail.com
+Date:  06/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Quang Hạnh
+MSV:  B20DCCN225
+Lop:  D20CQCN09-B
+Mail:  HanhNQ.B20CN225@stu.ptit.edu.vn
+Date:  12/11/2002
+SDT:  0383870219
+-------------------------------------------------
+Ten:  Nguyễn Quang Hảo
+MSV:  B20DCCN226
+Lop:  D20CQCN10-B
+Mail:  HaoNQ.B20CN226@stu.ptit.edu.vn
+Date:  29/04/2002
+SDT:  0394760406
+-------------------------------------------------
+Ten:  Trần Văn Hảo
+MSV:  B20DCCN227
+Lop:  D20CQCN11-B
+Mail:  
+Date:  07/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Ngọc Hảo
+MSV:  B20DCCN228
+Lop:  D20CQCN12-B
+Mail:  naotomori131@gmail.com
+Date:  13/01/2002
+SDT:  0397267912
+-------------------------------------------------
+Ten:  Phan Thị Hằng
+MSV:  B20DCCN229
+Lop:  D20CQCN01-B
+Mail:  hangnga3052002@gmail.com
+Date:  30/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Thị Thu Hằng
+MSV:  B20DCCN230
+Lop:  D20CQCN02-B
+Mail:  HangTTT.B20CN230@stu.ptit.edu.vn
+Date:  08/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Ngọc Hân
+MSV:  B20DCCN231
+Lop:  D20CQCN03-B
+Mail:  hanbn210402@gmail.com
+Date:  21/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Ngọc Hân
+MSV:  B20DCCN232
+Lop:  D20CQCN04-B
+Mail:  hahn.han02@gmail.com
+Date:  
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Đức Hậu
+MSV:  B20DCCN233
+Lop:  D20CQCN05-B
+Mail:  HauDD.B20CN233@stu.ptit.edu.vn
+Date:  25/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Hậu
+MSV:  B20DCCN234
+Lop:  D20CQCN06-B
+Mail:  
+Date:  29/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Quang Hiển
+MSV:  B20DCCN235
+Lop:  D20CQCN07-B
+Mail:  HienLQ.B20CN235@stu.ptit.edu.vn
+Date:  16/02/2002
+SDT:  0835900084
+-------------------------------------------------
+Ten:  Đặng Hoàng Hiệp
+MSV:  B20DCCN236
+Lop:  D20CQCN08-B
+Mail:  hiepdang0312@gmail.com
+Date:  03/12/2002
+SDT:  096789055
+-------------------------------------------------
+Ten:  Hoàng Đức Hiệp
+MSV:  B20DCCN237
+Lop:  D20CQCN09-B
+Mail:  HiepHD.B20CN237@stu.ptit.edu.vn
+Date:  06/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Thanh Hiệp
+MSV:  B20DCCN238
+Lop:  D20CQCN10-B
+Mail:  HiepLT.B20CN238@stu.ptit.edu.vn
+Date:  10/04/2002
+SDT:  0923720872
+-------------------------------------------------
+Ten:  Nguyễn Công Hiệp
+MSV:  B20DCCN239
+Lop:  D20CQCN11-B
+Mail:  nguyenconghiepnguyen171110@gmail.com
+Date:  11/10/2002
+SDT:  0975251857
+-------------------------------------------------
+Ten:  Trần Bá Hiệp
+MSV:  B20DCCN240
+Lop:  D20CQCN12-B
+Mail:  HiepTB.B20CN240@stu.ptit.edu.vn
+Date:  21/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Trung Hiếu
+MSV:  B20DCCN241
+Lop:  D20CQCN01-B
+Mail:  HieuBT.B20CN241@stu.ptit.edu.vn
+Date:  11/03/2002
+SDT:  0788087765
+-------------------------------------------------
+Ten:  Đào Trọng Hiếu
+MSV:  B20DCCN242
+Lop:  E20CQCN01-B
+Mail:  HieuDT.B20CN242@stu.ptit.edu.vn
+Date:  03/08/2002
+SDT:  0384745710
+-------------------------------------------------
+Ten:  Đặng Hữu Hiếu
+MSV:  B20DCCN243
+Lop:  D20CQCN03-B
+Mail:  HieuDH.B20CN243@stu.ptit.edu.vn
+Date:  05/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đặng Minh Hiếu
+MSV:  B20DCCN244
+Lop:  D20CQCN04-B
+Mail:  maybe.dmh@gmail.com
+Date:  15/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đinh Trung Hiếu
+MSV:  B20DCCN245
+Lop:  D20CQCN05-B
+Mail:  HieuDT.B20CN245@stu.ptit.edu.vn
+Date:  08/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Đức Hiếu
+MSV:  B20DCCN246
+Lop:  D20CQCN06-B
+Mail:  HieuDD.B20CN246@stu.ptit.edu.vn
+Date:  17/08/2002
+SDT:  0982609497
+-------------------------------------------------
+Ten:  Lã Ngọc Hiếu
+MSV:  B20DCCN247
+Lop:  D20CQCN07-B
+Mail:  HieuLN.B20CN247@stu.ptit.edu.vn
+Date:  15/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Minh Hiếu
+MSV:  B20DCCN248
+Lop:  D20CQCN08-B
+Mail:  HieuLM.B20CN248@stu.ptit.edu.vn
+Date:  06/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Trung Hiếu
+MSV:  B20DCCN249
+Lop:  D20CQCN09-B
+Mail:  HieuLT.B20CN249@stu.ptit.edu.vn
+Date:  23/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Ngô Minh Hiếu
+MSV:  B20DCCN250
+Lop:  D20CQCN10-B
+Mail:  HieuNM.B20CN250@stu.ptit.edu.vn
+Date:  18/08/2002
+SDT:  0917985109
+-------------------------------------------------
+Ten:  Nguyễn Duy Hiếu
+MSV:  B20DCCN251
+Lop:  D20CQCN11-B
+Mail:  HieuND.B20CN251@stu.ptit.edu.vn
+Date:  02/12/2002
+SDT:  0374013602
+-------------------------------------------------
+Ten:  Nguyễn Hồng Hiếu
+MSV:  B20DCCN252
+Lop:  D20CQCN12-B
+Mail:  HieuNH.B20CN252@stu.ptit.edu.vn
+Date:  22/08/2002
+SDT:  0815220802
+-------------------------------------------------
+Ten:  Nguyễn Minh Hiếu
+MSV:  B20DCCN253
+Lop:  D20CQCN01-B
+Mail:  HieuNM.B20CN253@stu.ptit.edu.vn
+Date:  25/03/2002
+SDT:  0967683318
+-------------------------------------------------
+Ten:  Nguyễn Minh Hiếu
+MSV:  B20DCCN254
+Lop:  D20CQCN02-B
+Mail:  HieuNM.B20CN254@stu.ptit.edu.vn
+Date:  09/11/2002
+SDT:  0397632745
+-------------------------------------------------
+Ten:  Nguyễn Ngọc Hiếu
+MSV:  B20DCCN255
+Lop:  D20CQCN03-B
+Mail:  HieuNN.B20CN255@stu.ptit.edu.vn
+Date:  18/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thiệu Hiếu
+MSV:  B20DCCN256
+Lop:  D20CQCN04-B
+Mail:  HieuNT.B20CN256@stu.ptit.edu.vn
+Date:  28/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Hiếu
+MSV:  B20DCCN257
+Lop:  D20CQCN05-B
+Mail:  HieuNV.B20CN257@stu.ptit.edu.vn
+Date:  22/09/2002
+SDT:  0378778594
+-------------------------------------------------
+Ten:  Phạm Trung Hiếu
+MSV:  B20DCCN258
+Lop:  D20CQCN06-B
+Mail:  Trunghieu01102002@gmail.com
+Date:  01/09/2002
+SDT:  0362758039
+-------------------------------------------------
+Ten:  Phan Anh Hiếu
+MSV:  B20DCCN259
+Lop:  D20CQCN07-B
+Mail:  HieuPA.B20CN259@stu.ptit.edu.vn
+Date:  27/09/2002
+SDT:  0865805699
+-------------------------------------------------
+Ten:  Trần Minh Hiếu
+MSV:  B20DCCN260
+Lop:  D20CQCN08-B
+Mail:  HieuTM.B20CN260@stu.ptit.edu.vn
+Date:  02/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Minh Hiếu
+MSV:  B20DCCN261
+Lop:  D20CQCN09-B
+Mail:  HieuTM.B20CN261@stu.ptit.edu.vn
+Date:  12/03/2002
+SDT:  0382253055
+-------------------------------------------------
+Ten:  Vũ Trọng Hiếu
+MSV:  B20DCCN262
+Lop:  D20CQCN10-B
+Mail:  HieuVT.B20CN262@stu.ptit.edu.vn
+Date:  11/06/2002
+SDT:  0971110602
+-------------------------------------------------
+Ten:  Vũ Duy Hiệu
+MSV:  B20DCCN263
+Lop:  D20CQCN11-B
+Mail:  HieuVD.B20CN263@stu.ptit.edu.vn
+Date:  24/02/2002
+SDT:  0868302655
+-------------------------------------------------
+Ten:  Nguyễn Đức Hòa
+MSV:  B20DCCN264
+Lop:  D20CQCN12-B
+Mail:  HoaND.B20CN264@stu.ptit.edu.vn
+Date:  16/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thái Hòa
+MSV:  B20DCCN265
+Lop:  D20CQCN01-B
+Mail:  HoaNT.B20CN265@stu.ptit.edu.vn
+Date:  26/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Văn Hòa
+MSV:  B20DCCN266
+Lop:  D20CQCN02-B
+Mail:  HoaPV.B20CN266@stu.ptit.edu.vn
+Date:  15/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Xuân Hòa
+MSV:  B20DCCN267
+Lop:  D20CQCN03-B
+Mail:  HoaVX.B20CN267@stu.ptit.edu.vn
+Date:  24/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Xuân Hoài
+MSV:  B20DCCN268
+Lop:  D20CQCN04-B
+Mail:  HoaiVX.B20CN268@stu.ptit.edu.vn
+Date:  28/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Hoan
+MSV:  B20DCCN269
+Lop:  D20CQCN05-B
+Mail:  HoanND.B20CN269@stu.ptit.edu.vn
+Date:  06/12/2002
+SDT:  0962855702
+-------------------------------------------------
+Ten:  Trần Công Hoan
+MSV:  B20DCCN270
+Lop:  D20CQCN06-B
+Mail:  HoanTC.B20CN270@stu.ptit.edu.vn
+Date:  02/11/2002
+SDT:  6666666666
+-------------------------------------------------
+Ten:  Đinh Mạnh Hoàng
+MSV:  B20DCCN271
+Lop:  D20CQCN07-B
+Mail:  HoangDM.B20CN271@stu.ptit.edu.vn
+Date:  20/02/2002
+SDT:  0372782087
+-------------------------------------------------
+Ten:  Lã Nhật Hoàng
+MSV:  B20DCCN272
+Lop:  D20CQCN08-B
+Mail:  
+Date:  24/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Cao Hoàng
+MSV:  B20DCCN273
+Lop:  D20CQCN09-B
+Mail:  HoangLC.B20CN273@stu.ptit.edu.vn
+Date:  18/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Phúc Hoàng
+MSV:  B20DCCN274
+Lop:  D20CQCN10-B
+Mail:  HoangLP.B20CN274@stu.ptit.edu.vn
+Date:  26/03/2002
+SDT:  0856513299
+-------------------------------------------------
+Ten:  Mai Huy Hoàng
+MSV:  B20DCCN275
+Lop:  D20CQCN11-B
+Mail:  HoangMH.B20CN275@stu.ptit.edu.vn
+Date:  13/04/2002
+SDT:  0393015372
+-------------------------------------------------
+Ten:  Nguyễn Đồng Hoàng
+MSV:  B20DCCN276
+Lop:  D20CQCN12-B
+Mail:  HoangND.B20CN276@stu.ptit.edu.vn
+Date:  17/07/2002
+SDT:  0867170702
+-------------------------------------------------
+Ten:  Nguyễn Huy Hoàng
+MSV:  B20DCCN277
+Lop:  D20CQCN01-B
+Mail:  HoangNH.B20CN277@stu.ptit.edu.vn
+Date:  21/03/2002
+SDT:  0397210302
+-------------------------------------------------
+Ten:  Nguyễn Thanh Hoàng
+MSV:  B20DCCN278
+Lop:  D20CQCN02-B
+Mail:  HoangNT.B20CN278@stu.ptit.edu.vn
+Date:  11/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trọng Hoàng
+MSV:  B20DCCN279
+Lop:  D20CQCN03-B
+Mail:  nguyentronghoangmc@gmail.com
+Date:  20/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Hoàng
+MSV:  B20DCCN280
+Lop:  D20CQCN04-B
+Mail:  HoangNV.B20CN280@stu.ptit.edu.vn
+Date:  24/08/2002
+SDT:  0387096139
+-------------------------------------------------
+Ten:  Phạm Huy Hoàng
+MSV:  B20DCCN281
+Lop:  D20CQCN05-B
+Mail:  HoangPH.B20CN281@stu.ptit.edu.vn
+Date:  01/09/2002
+SDT:  0966382285
+-------------------------------------------------
+Ten:  Phạm Văn Hoàng
+MSV:  B20DCCN282
+Lop:  D20CQCN06-B
+Mail:  HoangPV.B20CN282@stu.ptit.edu.vn
+Date:  26/05/2002
+SDT:  0398121782
+-------------------------------------------------
+Ten:  Phan Kế Vũ Hoàng
+MSV:  B20DCCN283
+Lop:  D20CQCN07-B
+Mail:  HoangPKV.B20CN283@stu.ptit.edu.vn
+Date:  26/04/2002
+SDT:  0388541572
+-------------------------------------------------
+Ten:  Trịnh Đức Hoàng
+MSV:  B20DCCN284
+Lop:  D20CQCN08-B
+Mail:  HoangTD.B20CN284@stu.ptit.edu.vn
+Date:  25/06/2002
+SDT:  0814117539
+-------------------------------------------------
+Ten:  Vũ Minh Hoàng
+MSV:  B20DCCN285
+Lop:  D20CQCN09-B
+Mail:  HoangVM.B20CN285@stu.ptit.edu.vn
+Date:  09/03/2002
+SDT:  0862853231
+-------------------------------------------------
+Ten:  Nguyễn Sỹ Hội
+MSV:  B20DCCN286
+Lop:  D20CQCN10-B
+Mail:  HoiNS.B20CN286@stu.ptit.edu.vn
+Date:  28/06/2002
+SDT:  0989328602
+-------------------------------------------------
+Ten:  Vũ Xuân Hội
+MSV:  B20DCCN287
+Lop:  D20CQCN11-B
+Mail:  HoiVX.B20CN287@stu.ptit.edu.vn
+Date:  19/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nghiêm Công Huân
+MSV:  B20DCCN288
+Lop:  D20CQCN12-B
+Mail:  HuanNC.B20CN288@stu.ptit.edu.vn
+Date:  29/11/2002
+SDT:  0961801261
+-------------------------------------------------
+Ten:  Trương Quốc Huân
+MSV:  B20DCCN289
+Lop:  D20CQCN01-B
+Mail:  HuanTQ.B20CN289@stu.ptit.edu.vn
+Date:  09/03/2002
+SDT:  0943750831
+-------------------------------------------------
+Ten:  Nguyễn Danh Huấn
+MSV:  B20DCCN290
+Lop:  D20CQCN02-B
+Mail:  danhhuan23012002@gmail.com
+Date:  23/01/2002
+SDT:  0867706724
+-------------------------------------------------
+Ten:  Đoàn Thị Huế
+MSV:  B20DCCN291
+Lop:  D20CQCN03-B
+Mail:  HueDT.B20CN291@stu.ptit.edu.vn
+Date:  21/03/2002
+SDT:  0899809335
+-------------------------------------------------
+Ten:  Bùi Mạnh Hùng
+MSV:  B20DCCN292
+Lop:  D20CQCN04-B
+Mail:  manhhung12032002@gmail.com
+Date:  12/03/2002
+SDT:  0366705732
+-------------------------------------------------
+Ten:  Đinh Bá Hùng
+MSV:  B20DCCN293
+Lop:  D20CQCN05-B
+Mail:  dinhh569@gmail.com
+Date:  30/09/2002
+SDT:  0337655285
+-------------------------------------------------
+Ten:  Nông Quốc Hùng
+MSV:  B20DCCN294
+Lop:  D20CQCN06-B
+Mail:  HungNQ.B20CN294@stu.ptit.edu.vn
+Date:  23/08/2001
+SDT:  0392689001
+-------------------------------------------------
+Ten:  Nguyễn Mạnh Hùng
+MSV:  B20DCCN295
+Lop:  D20CQCN07-B
+Mail:  hung8a1thth@gmail.com
+Date:  10/01/2002
+SDT:  0399284295
+-------------------------------------------------
+Ten:  Nguyễn Phi Hùng
+MSV:  B20DCCN296
+Lop:  D20CQCN08-B
+Mail:  HungNP.B20CN296@stu.ptit.edu.vn
+Date:  28/07/2002
+SDT:  0964707826
+-------------------------------------------------
+Ten:  Nguyễn Tiến Hùng
+MSV:  B20DCCN297
+Lop:  D20CQCN09-B
+Mail:  ngtienhung0501@gmail.com
+Date:  05/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Xuân Hùng
+MSV:  B20DCCN298
+Lop:  D20CQCN10-B
+Mail:  HungNX.B20CN298@stu.ptit.edu.vn
+Date:  25/09/2001
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Duy Hùng
+MSV:  B20DCCN299
+Lop:  D20CQCN11-B
+Mail:  Hung12apt@gmail.com
+Date:  06/04/2002
+SDT:  0397605491
+-------------------------------------------------
+Ten:  Phạm Văn Hùng
+MSV:  B20DCCN300
+Lop:  D20CQCN12-B
+Mail:  HungPV.B20CN300@stu.ptit.edu.vn
+Date:  20/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Việt Hùng
+MSV:  B20DCCN301
+Lop:  D20CQCN01-B
+Mail:  HungTV.B20CN301@stu.ptit.edu.vn
+Date:  01/03/2002
+SDT:  0562948850
+-------------------------------------------------
+Ten:  Vũ Thế Hùng
+MSV:  B20DCCN302
+Lop:  D20CQCN02-B
+Mail:  HungVT.B20CN302@stu.ptit.edu.vn
+Date:  28/01/2002
+SDT:  0971349622
+-------------------------------------------------
+Ten:  Bùi Đàm Quang Huy
+MSV:  B20DCCN303
+Lop:  D20CQCN03-B
+Mail:  HuyBDQ.B20CN303@stu.ptit.edu.vn
+Date:  20/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Đức Huy
+MSV:  B20DCCN304
+Lop:  D20CQCN04-B
+Mail:  HuyBD.B20CN304@stu.ptit.edu.vn
+Date:  10/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Quốc Huy
+MSV:  B20DCCN305
+Lop:  D20CQCN05-B
+Mail:  HuyBQ.B20CN305@stu.ptit.edu.vn
+Date:  18/08/2002
+SDT:  0968287626
+-------------------------------------------------
+Ten:  Bùi Văn Huy
+MSV:  B20DCCN306
+Lop:  D20CQCN06-B
+Mail:  HuyBV.B20CN306@stu.ptit.edu.vn
+Date:  12/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Văn Huy
+MSV:  B20DCCN307
+Lop:  D20CQCN07-B
+Mail:  HuyBV.B20CN307@stu.ptit.edu.vn
+Date:  01/07/2002
+SDT:  0369711702
+-------------------------------------------------
+Ten:  Đặng Quang Huy
+MSV:  B20DCCN308
+Lop:  D20CQCN08-B
+Mail:  dqhuy1411@gmail.com
+Date:  14/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đặng Văn Huy
+MSV:  B20DCCN309
+Lop:  D20CQCN09-B
+Mail:  HuyDV.B20CN309@stu.ptit.edu.vn
+Date:  13/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đoàn Quang Huy
+MSV:  B20DCCN310
+Lop:  D20CQCN10-B
+Mail:  Huykullkaq@gmail.com
+Date:  12/04/2002
+SDT:  0334033365
+-------------------------------------------------
+Ten:  Lê Văn Huy
+MSV:  B20DCCN311
+Lop:  D20CQCN11-B
+Mail:  HuyLV.B20CN311@stu.ptit.edu.vn
+Date:  19/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lường Thanh Huy
+MSV:  B20DCCN312
+Lop:  D20CQCN12-B
+Mail:  HuyLT.B20CN312@stu.ptit.edu.vn
+Date:  04/09/2002
+SDT:  0392588809
+-------------------------------------------------
+Ten:  Mai Quang Huy
+MSV:  B20DCCN313
+Lop:  D20CQCN01-B
+Mail:  HuyMQ.B20CN313@stu.ptit.edu.vn
+Date:  05/09/2002
+SDT:  0375372226
+-------------------------------------------------
+Ten:  Nguyễn Duy Huy
+MSV:  B20DCCN314
+Lop:  D20CQCN02-B
+Mail:  HuyND.B20CN314@stu.ptit.edu.vn
+Date:  30/06/1999
+SDT:  0367038720
+-------------------------------------------------
+Ten:  Nguyễn Hữu Huy
+MSV:  B20DCCN315
+Lop:  D20CQCN03-B
+Mail:  HuyNH.B20CN315@stu.ptit.edu.vn
+Date:  13/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Quang Huy
+MSV:  B20DCCN316
+Lop:  D20CQCN04-B
+Mail:  HuyNQ.B20CN316@stu.ptit.edu.vn
+Date:  05/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Quang Huy
+MSV:  B20DCCN317
+Lop:  D20CQCN05-B
+Mail:  HuyNQ.B20CN317@stu.ptit.edu.vn
+Date:  23/08/2002
+SDT:  0979810371
+-------------------------------------------------
+Ten:  Nguyễn Quang Huy
+MSV:  B20DCCN318
+Lop:  D20CQCN06-B
+Mail:  HuyNQ.B20CN318@stu.ptit.edu.vn
+Date:  13/10/2002
+SDT:  0981270362
+-------------------------------------------------
+Ten:  Nguyễn Quang Huy
+MSV:  B20DCCN319
+Lop:  D20CQCN07-B
+Mail:  HuyNQ.B20CN319@stu.ptit.edu.vn
+Date:  04/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Quốc Huy
+MSV:  B20DCCN320
+Lop:  D20CQCN08-B
+Mail:  HuyNQ.B20CN320@stu.ptit.edu.vn
+Date:  23/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Huy
+MSV:  B20DCCN321
+Lop:  D20CQCN09-B
+Mail:  HuyNV.B20CN321@stu.ptit.edu.vn
+Date:  11/01/2002
+SDT:  0972457312
+-------------------------------------------------
+Ten:  Nguyễn Văn Huy
+MSV:  B20DCCN322
+Lop:  D20CQCN10-B
+Mail:  HuyNV.B20CN322@stu.ptit.edu.vn
+Date:  16/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Văn Huy
+MSV:  B20DCCN323
+Lop:  D20CQCN11-B
+Mail:  HuyPV.B20CN323@stu.ptit.edu.vn
+Date:  07/07/2002
+SDT:  0968389225
+-------------------------------------------------
+Ten:  Phùng Đức Huy
+MSV:  B20DCCN324
+Lop:  D20CQCN12-B
+Mail:  HuyPD.B20CN324@stu.ptit.edu.vn
+Date:  12/07/2002
+SDT:  0829563888
+-------------------------------------------------
+Ten:  Trần Đức Huy
+MSV:  B20DCCN325
+Lop:  D20CQCN01-B
+Mail:  huy52670@gmail.com
+Date:  28/09/2002
+SDT:  0399831338
+-------------------------------------------------
+Ten:  Trần Khang Huy
+MSV:  B20DCCN326
+Lop:  D20CQCN02-B
+Mail:  HuyTK.B20CN326@stu.ptit.edu.vn
+Date:  26/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Quang Huy
+MSV:  B20DCCN327
+Lop:  D20CQCN03-B
+Mail:  Tranquanghuy2002.nguyenbinh@gmail.com
+Date:  16/04/2002
+SDT:  0904845743
+-------------------------------------------------
+Ten:  Trần Quang Huy
+MSV:  B20DCCN328
+Lop:  D20CQCN04-B
+Mail:  HuyTQ.B20CN328@stu.ptit.edu.vn
+Date:  25/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Quang Huy
+MSV:  B20DCCN329
+Lop:  D20CQCN05-B
+Mail:  HuyTQ.B20CN329@stu.ptit.edu.vn
+Date:  02/11/2002
+SDT:  0978312482
+-------------------------------------------------
+Ten:  Trương Quang Huy
+MSV:  B20DCCN330
+Lop:  D20CQCN06-B
+Mail:  HuyTQ.B20CN330@stu.ptit.edu.vn
+Date:  10/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vương Trí Huy
+MSV:  B20DCCN331
+Lop:  D20CQCN07-B
+Mail:  HuyVT.B20CN331@stu.ptit.edu.vn
+Date:  14/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đậu Ngọc Huyền
+MSV:  B20DCCN332
+Lop:  D20CQCN08-B
+Mail:  HuyenDN.B20CN332@stu.ptit.edu.vn
+Date:  04/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Ngọc Huyền
+MSV:  B20DCCN333
+Lop:  D20CQCN09-B
+Mail:  HuyenLN.B20CN333@stu.ptit.edu.vn
+Date:  16/09/2002
+SDT:  0357369476
+-------------------------------------------------
+Ten:  Phạm Thị Thanh Huyền
+MSV:  B20DCCN334
+Lop:  D20CQCN10-B
+Mail:  thanhhuyen99888164@gmail.com
+Date:  08/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Thị Thanh Huyền
+MSV:  B20DCCN335
+Lop:  D20CQCN11-B
+Mail:  Heulwen1404@gmail.com
+Date:  14/04/2002
+SDT:  0377606975
+-------------------------------------------------
+Ten:  Nguyễn Văn Huynh
+MSV:  B20DCCN336
+Lop:  D20CQCN12-B
+Mail:  HuynhNV.B20CN336@stu.ptit.edu.vn
+Date:  12/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Cao Mạnh Huỳnh
+MSV:  B20DCCN337
+Lop:  D20CQCN01-B
+Mail:  HuynhCM.B20CN337@stu.ptit.edu.vn
+Date:  25/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Cảnh Huỳnh
+MSV:  B20DCCN338
+Lop:  D20CQCN02-B
+Mail:  Canhhuynh2002@gmail.com
+Date:  04/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Cảnh Hưng
+MSV:  B20DCCN339
+Lop:  D20CQCN03-B
+Mail:  HungNC.B20CN339@stu.ptit.edu.vn
+Date:  05/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Doãn Hưng
+MSV:  B20DCCN340
+Lop:  D20CQCN04-B
+Mail:  HungND.B20CN340@stu.ptit.edu.vn
+Date:  28/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Tiến Hưng
+MSV:  B20DCCN341
+Lop:  D20CQCN05-B
+Mail:  hanoihung123321@gmail.com
+Date:  23/05/2002
+SDT:  0374748599
+-------------------------------------------------
+Ten:  Nguyễn Thành Hưng
+MSV:  B20DCCN342
+Lop:  D20CQCN06-B
+Mail:  hung1022002@gmail.com
+Date:  10/02/2002
+SDT:  0384357102
+-------------------------------------------------
+Ten:  Nguyễn Trần Quốc Hưng
+MSV:  B20DCCN343
+Lop:  D20CQCN07-B
+Mail:  HungNTQ.B20CN343@stu.ptit.edu.vn
+Date:  11/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Xuân Hưng
+MSV:  B20DCCN344
+Lop:  D20CQCN08-B
+Mail:  HungNX.B20CN344@stu.ptit.edu.vn
+Date:  03/04/2002
+SDT:  0979269608
+-------------------------------------------------
+Ten:  Vũ Duy Hưng
+MSV:  B20DCCN345
+Lop:  D20CQCN09-B
+Mail:  HungVD.B20CN345@stu.ptit.edu.vn
+Date:  12/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Hương
+MSV:  B20DCCN346
+Lop:  D20CQCN10-B
+Mail:  HuongNT.B20CN346@stu.ptit.edu.vn
+Date:  15/02/2002
+SDT:  0812480268
+-------------------------------------------------
+Ten:  Nguyễn Thu Hương
+MSV:  B20DCCN347
+Lop:  D20CQCN11-B
+Mail:  HuongNT.B20CN347@stu.ptit.edu.vn
+Date:  14/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Thiên Hương
+MSV:  B20DCCN348
+Lop:  D20CQCN12-B
+Mail:  HuongTT.B20CN348@stu.ptit.edu.vn
+Date:  04/10/2002
+SDT:  0932266862
+-------------------------------------------------
+Ten:  Hoàng Thị Hường
+MSV:  B20DCCN349
+Lop:  D20CQCN01-B
+Mail:  HuongHT.B20CN349@stu.ptit.edu.vn
+Date:  28/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Xuân Hướng
+MSV:  B20DCCN350
+Lop:  D20CQCN02-B
+Mail:  dohuong0422@gmail.com
+Date:  04/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trọng Hướng
+MSV:  B20DCCN351
+Lop:  D20CQCN03-B
+Mail:  HuongNT.B20CN351@stu.ptit.edu.vn
+Date:  31/10/2002
+SDT:  0788392620
+-------------------------------------------------
+Ten:  Đỗ Duy Kiên
+MSV:  B20DCCN352
+Lop:  D20CQCN04-B
+Mail:  KienDD.B20CN352@stu.ptit.edu.vn
+Date:  19/12/2002
+SDT:  0963448172
+-------------------------------------------------
+Ten:  Lê Chí Kiên
+MSV:  B20DCCN353
+Lop:  D20CQCN05-B
+Mail:  KienLC.B20CN353@stu.ptit.edu.vn
+Date:  21/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Trung Kiên
+MSV:  B20DCCN354
+Lop:  D20CQCN06-B
+Mail:  KienLT.B20CN354@stu.ptit.edu.vn
+Date:  07/02/2002
+SDT:  0705145129
+-------------------------------------------------
+Ten:  Lê Văn Kiên
+MSV:  B20DCCN355
+Lop:  D20CQCN07-B
+Mail:  KienLV.B20CN355@stu.ptit.edu.vn
+Date:  18/08/2002
+SDT:  0961016881
+-------------------------------------------------
+Ten:  Ngô Bá Kiên
+MSV:  B20DCCN356
+Lop:  D20CQCN08-B
+Mail:  KienNB.B20CN356@stu.ptit.edu.vn
+Date:  22/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trung Kiên
+MSV:  B20DCCN357
+Lop:  D20CQCN09-B
+Mail:  KienNT.B20CN357@stu.ptit.edu.vn
+Date:  26/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trung Kiên
+MSV:  B20DCCN358
+Lop:  D20CQCN10-B
+Mail:  Trungkiennguyen01012002@gmail.com
+Date:  09/01/2002
+SDT:  0369270572
+-------------------------------------------------
+Ten:  Nguyễn Trung Kiên
+MSV:  B20DCCN359
+Lop:  D20CQCN11-B
+Mail:  Nkien25082002@gmail.com
+Date:  25/08/2002
+SDT:  0814825662
+-------------------------------------------------
+Ten:  Phùng Đức Kiên
+MSV:  B20DCCN360
+Lop:  D20CQCN12-B
+Mail:  KienPD.B20CN360@stu.ptit.edu.vn
+Date:  26/08/2002
+SDT:  0385753910
+-------------------------------------------------
+Ten:  Trần Anh Kiệt
+MSV:  B20DCCN361
+Lop:  D20CQCN01-B
+Mail:  KietTA.B20CN361@stu.ptit.edu.vn
+Date:  14/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Trọng Kiều
+MSV:  B20DCCN362
+Lop:  D20CQCN02-B
+Mail:  KieuPT.B20CN362@stu.ptit.edu.vn
+Date:  14/01/2002
+SDT:  0869336917
+-------------------------------------------------
+Ten:  Nguyễn Đình Khả
+MSV:  B20DCCN363
+Lop:  D20CQCN03-B
+Mail:  KhaND.B20CN363@stu.ptit.edu.vn
+Date:  23/08/2002
+SDT:  0327848463
+-------------------------------------------------
+Ten:  Đặng Tuấn Khải
+MSV:  B20DCCN364
+Lop:  D20CQCN04-B
+Mail:  dangkhai832@gmail.com
+Date:  08/03/2002
+SDT:  0393886585
+-------------------------------------------------
+Ten:  Mai Văn Khải
+MSV:  B20DCCN365
+Lop:  D20CQCN05-B
+Mail:  KhaiMV.B20CN365@stu.ptit.edu.vn
+Date:  17/02/2002
+SDT:  0365204985
+-------------------------------------------------
+Ten:  Nguyễn Quang Khải
+MSV:  B20DCCN366
+Lop:  D20CQCN06-B
+Mail:  KhaiNQ.B20CN366@stu.ptit.edu.vn
+Date:  30/08/2002
+SDT:  0902047652
+-------------------------------------------------
+Ten:  Trần Đình Khải
+MSV:  B20DCCN367
+Lop:  D20CQCN07-B
+Mail:  KhaiTD.B20CN367@stu.ptit.edu.vn
+Date:  07/10/2002
+SDT:  0839071002
+-------------------------------------------------
+Ten:  Phạm Bá Khang
+MSV:  B20DCCN368
+Lop:  D20CQCN08-B
+Mail:  KhangPB.B20CN368@stu.ptit.edu.vn
+Date:  02/03/2002
+SDT:  0981073697
+-------------------------------------------------
+Ten:  Vương An Khang
+MSV:  B20DCCN369
+Lop:  D20CQCN09-B
+Mail:  KhangVA.B20CN369@stu.ptit.edu.vn
+Date:  16/06/2002
+SDT:  0868718744
+-------------------------------------------------
+Ten:  Trần Thị Thu Khanh
+MSV:  B20DCCN370
+Lop:  D20CQCN10-B
+Mail:  KhanhTTT.B20CN370@stu.ptit.edu.vn
+Date:  21/09/2002
+SDT:  0393826670
+-------------------------------------------------
+Ten:  Trịnh Tuấn Khanh
+MSV:  B20DCCN371
+Lop:  D20CQCN11-B
+Mail:  KhanhTT.B20CN371@stu.ptit.edu.vn
+Date:  02/04/2001
+SDT:  
+-------------------------------------------------
+Ten:  Đoàn Ngọc Khánh
+MSV:  B20DCCN372
+Lop:  D20CQCN12-B
+Mail:  Khanhdoan6102002@gmail.com
+Date:  06/10/2002
+SDT:  0359385535
+-------------------------------------------------
+Ten:  Ngô Văn Khánh
+MSV:  B20DCCN373
+Lop:  D20CQCN01-B
+Mail:  
+Date:  
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Bá Duy Khánh
+MSV:  B20DCCN374
+Lop:  D20CQCN02-B
+Mail:  KhanhNBD.B20CN374@stu.ptit.edu.vn
+Date:  11/11/2002
+SDT:  0352391723
+-------------------------------------------------
+Ten:  Nguyễn Công Khánh
+MSV:  B20DCCN375
+Lop:  D20CQCN03-B
+Mail:  khanhdzno1st01061102@gmail.com
+Date:  01/06/2002
+SDT:  0869873483
+-------------------------------------------------
+Ten:  Nguyễn Quang Khánh
+MSV:  B20DCCN376
+Lop:  D20CQCN04-B
+Mail:  KhanhNQ.B20CN376@stu.ptit.edu.vn
+Date:  16/02/2002
+SDT:  0345776731
+-------------------------------------------------
+Ten:  Phạm Quốc Khánh
+MSV:  B20DCCN377
+Lop:  D20CQCN05-B
+Mail:  KhanhPQ.B20CN377@stu.ptit.edu.vn
+Date:  10/02/2002
+SDT:  0389055836
+-------------------------------------------------
+Ten:  Phạm Quốc Khánh
+MSV:  B20DCCN378
+Lop:  D20CQCN06-B
+Mail:  
+Date:  19/05/2001
+SDT:  0332413650
+-------------------------------------------------
+Ten:  Trần Quốc Khánh
+MSV:  B20DCCN379
+Lop:  D20CQCN07-B
+Mail:  Khanh0948138322@gmail.com
+Date:  17/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Văn Khánh
+MSV:  B20DCCN380
+Lop:  D20CQCN08-B
+Mail:  KhanhVV.B20CN380@stu.ptit.edu.vn
+Date:  02/12/2002
+SDT:  0823010029
+-------------------------------------------------
+Ten:  Kiều Ngọc Khiêm
+MSV:  B20DCCN381
+Lop:  D20CQCN09-B
+Mail:  khiem171222@gmail.com
+Date:  17/12/2002
+SDT:  0964080148
+-------------------------------------------------
+Ten:  Vũ Văn Khiêm
+MSV:  B20DCCN382
+Lop:  D20CQCN10-B
+Mail:  KhiemVV.B20CN382@stu.ptit.edu.vn
+Date:  01/10/2002
+SDT:  0941398058
+-------------------------------------------------
+Ten:  Lương Xuân Khôi
+MSV:  B20DCCN383
+Lop:  D20CQCN11-B
+Mail:  KhoiLX.B20CN383@stu.ptit.edu.vn
+Date:  24/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Huy Khôi
+MSV:  B20DCCN384
+Lop:  D20CQCN12-B
+Mail:  KhoiPH.B20CN384@stu.ptit.edu.vn
+Date:  27/04/2002
+SDT:  0964895727
+-------------------------------------------------
+Ten:  Đỗ Minh Khuê
+MSV:  B20DCCN385
+Lop:  D20CQCN01-B
+Mail:  KhueDM.B20CN385@stu.ptit.edu.vn
+Date:  19/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thanh Lam
+MSV:  B20DCCN386
+Lop:  D20CQCN02-B
+Mail:  lam06012002@gmail.com
+Date:  06/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Thị Ngọc Lan
+MSV:  B20DCCN387
+Lop:  D20CQCN03-B
+Mail:  vuthingoclan05@gmail.com
+Date:  03/01/2002
+SDT:  0889147911
+-------------------------------------------------
+Ten:  Đỗ Tràng Lâm
+MSV:  B20DCCN388
+Lop:  D20CQCN04-B
+Mail:  tranglamptiter@gmail.com
+Date:  07/11/2002
+SDT:  0868903964
+-------------------------------------------------
+Ten:  Hoàng Trọng Lâm
+MSV:  B20DCCN389
+Lop:  D20CQCN05-B
+Mail:  LamHT.B20CN389@stu.ptit.edu.vn
+Date:  06/09/2002
+SDT:  0825743065
+-------------------------------------------------
+Ten:  Hồ Đức Lâm
+MSV:  B20DCCN390
+Lop:  D20CQCN06-B
+Mail:  LamHD.B20CN390@stu.ptit.edu.vn
+Date:  11/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Công Lâm
+MSV:  B20DCCN391
+Lop:  D20CQCN07-B
+Mail:  LamNC.B20CN391@stu.ptit.edu.vn
+Date:  10/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thành Lâm
+MSV:  B20DCCN392
+Lop:  D20CQCN08-B
+Mail:  LamNT.B20CN392@stu.ptit.edu.vn
+Date:  19/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Xuân Lâm
+MSV:  B20DCCN393
+Lop:  D20CQCN09-B
+Mail:  LamPX.B20CN393@stu.ptit.edu.vn
+Date:  21/06/2002
+SDT:  0981271910
+-------------------------------------------------
+Ten:  Trần Kỳ Lâm
+MSV:  B20DCCN394
+Lop:  D20CQCN10-B
+Mail:  LamTK.B20CN394@stu.ptit.edu.vn
+Date:  10/03/2002
+SDT:  0836220626
+-------------------------------------------------
+Ten:  Trần Thanh Lâm
+MSV:  B20DCCN395
+Lop:  D20CQCN11-B
+Mail:  LamTT.B20CN395@stu.ptit.edu.vn
+Date:  10/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vương Tùng Lâm
+MSV:  B20DCCN396
+Lop:  D20CQCN12-B
+Mail:  LamVT.B20CN396@stu.ptit.edu.vn
+Date:  20/03/2002
+SDT:  0352306136
+-------------------------------------------------
+Ten:  Trình Quốc Lập
+MSV:  B20DCCN397
+Lop:  D20CQCN01-B
+Mail:  trinhlap2525@gmail.com
+Date:  02/05/2002
+SDT:  0867541462
+-------------------------------------------------
+Ten:  Vi Thị Thu Lê
+MSV:  B20DCCN398
+Lop:  D20CQCN02-B
+Mail:  LeVTT.B20CN398@stu.ptit.edu.vn
+Date:  29/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Linh
+MSV:  B20DCCN399
+Lop:  D20CQCN03-B
+Mail:  LinhNV.B20CN399@stu.ptit.edu.vn
+Date:  13/06/2002
+SDT:  0854138612
+-------------------------------------------------
+Ten:  Nguyễn Văn Linh
+MSV:  B20DCCN400
+Lop:  D20CQCN04-B
+Mail:  LinhNV.B20CN400@stu.ptit.edu.vn
+Date:  30/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Loan
+MSV:  B20DCCN401
+Lop:  D20CQCN05-B
+Mail:  LoanNT.B20CN401@stu.ptit.edu.vn
+Date:  09/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Chu Văn Long
+MSV:  B20DCCN402
+Lop:  D20CQCN06-B
+Mail:  LongCV.B20CN402@stu.ptit.edu.vn
+Date:  19/01/2002
+SDT:  0984744019
+-------------------------------------------------
+Ten:  Đặng Thành Long
+MSV:  B20DCCN403
+Lop:  D20CQCN07-B
+Mail:  LongDT.B20CN403@stu.ptit.edu.vn
+Date:  14/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Việt Long
+MSV:  B20DCCN404
+Lop:  D20CQCN08-B
+Mail:  LongDV.B20CN404@stu.ptit.edu.vn
+Date:  09/09/2002
+SDT:  0865266195
+-------------------------------------------------
+Ten:  Lê Hoàng Long
+MSV:  B20DCCN405
+Lop:  D20CQCN09-B
+Mail:  LongLH.B20CN405@stu.ptit.edu.vn
+Date:  03/06/2002
+SDT:  0949404106
+-------------------------------------------------
+Ten:  Nguyễn Đăng Long
+MSV:  B20DCCN406
+Lop:  D20CQCN10-B
+Mail:  LongND.B20CN406@stu.ptit.edu.vn
+Date:  03/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thành Long
+MSV:  B20DCCN407
+Lop:  D20CQCN11-B
+Mail:  
+Date:  01/01/2002
+SDT:  0352013796
+-------------------------------------------------
+Ten:  Nguyễn Xuân Long
+MSV:  B20DCCN408
+Lop:  D20CQCN12-B
+Mail:  LongNX.B20CN408@stu.ptit.edu.vn
+Date:  19/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Viên Đình Long
+MSV:  B20DCCN409
+Lop:  D20CQCN01-B
+Mail:  LongVD.B20CN409@stu.ptit.edu.vn
+Date:  17/04/2002
+SDT:  0964782634
+-------------------------------------------------
+Ten:  Hán Văn Luân
+MSV:  B20DCCN410
+Lop:  D20CQCN02-B
+Mail:  LuanHV.B20CN410@stu.ptit.edu.vn
+Date:  10/01/2002
+SDT:  0366821254
+-------------------------------------------------
+Ten:  Phạm Văn Lực
+MSV:  B20DCCN411
+Lop:  D20CQCN03-B
+Mail:  LucPV.B20CN411@stu.ptit.edu.vn
+Date:  05/08/2002
+SDT:  0975023631
+-------------------------------------------------
+Ten:  Hoàng Xuân Lương
+MSV:  B20DCCN412
+Lop:  D20CQCN04-B
+Mail:  LuongHX.B20CN412@stu.ptit.edu.vn
+Date:  16/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Việt Lương
+MSV:  B20DCCN413
+Lop:  D20CQCN05-B
+Mail:  LuongNV.B20CN413@stu.ptit.edu.vn
+Date:  07/04/2002
+SDT:  0393839387
+-------------------------------------------------
+Ten:  Trần Đình Lương
+MSV:  B20DCCN414
+Lop:  D20CQCN06-B
+Mail:  LuongTD.B20CN414@stu.ptit.edu.vn
+Date:  14/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Cẩm Ly
+MSV:  B20DCCN415
+Lop:  D20CQCN07-B
+Mail:  LyNC.B20CN415@stu.ptit.edu.vn
+Date:  24/09/2002
+SDT:  0385449188
+-------------------------------------------------
+Ten:  Phạm Khánh Ly Ly
+MSV:  B20DCCN416
+Lop:  D20CQCN08-B
+Mail:  LyPKL.B20CN416@stu.ptit.edu.vn
+Date:  25/05/2002
+SDT:  0913638450
+-------------------------------------------------
+Ten:  Phan Thị Hương Ly
+MSV:  B20DCCN417
+Lop:  D20CQCN09-B
+Mail:  LyPTH.B20CN417@stu.ptit.edu.vn
+Date:  05/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Thị Ngọc Mai
+MSV:  B20DCCN418
+Lop:  D20CQCN10-B
+Mail:  maimaingoc1997@gmail.com
+Date:  23/07/2002
+SDT:  0374966651
+-------------------------------------------------
+Ten:  Bùi Duy Mạnh
+MSV:  B20DCCN419
+Lop:  E20CQCN01-B
+Mail:  ManhBD.B20CN419@stu.ptit.edu.vn
+Date:  09/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Dương Văn Mạnh
+MSV:  B20DCCN420
+Lop:  D20CQCN12-B
+Mail:  ManhDV.B20CN420@stu.ptit.edu.vn
+Date:  04/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đào Duy Mạnh
+MSV:  B20DCCN421
+Lop:  D20CQCN01-B
+Mail:  ManhDD.B20CN421@stu.ptit.edu.vn
+Date:  05/03/2002
+SDT:  0969278309
+-------------------------------------------------
+Ten:  Hoàng Đức Mạnh
+MSV:  B20DCCN422
+Lop:  D20CQCN02-B
+Mail:  ManhHD.B20CN422@stu.ptit.edu.vn
+Date:  12/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Duy Mạnh
+MSV:  B20DCCN423
+Lop:  D20CQCN03-B
+Mail:  ManhLD.B20CN423@stu.ptit.edu.vn
+Date:  19/05/2002
+SDT:  0944516726
+-------------------------------------------------
+Ten:  Nguyễn Công Mạnh
+MSV:  B20DCCN424
+Lop:  D20CQCN04-B
+Mail:  ManhNC.B20CN424@stu.ptit.edu.vn
+Date:  01/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Mạnh
+MSV:  B20DCCN425
+Lop:  D20CQCN05-B
+Mail:  ManhND.B20CN425@stu.ptit.edu.vn
+Date:  08/06/2002
+SDT:  0973270675
+-------------------------------------------------
+Ten:  Nguyễn Đức Mạnh
+MSV:  B20DCCN426
+Lop:  D20CQCN06-B
+Mail:  ManhND.B20CN426@stu.ptit.edu.vn
+Date:  17/03/2002
+SDT:  0868123541
+-------------------------------------------------
+Ten:  Nguyễn Hữu Mạnh
+MSV:  B20DCCN427
+Lop:  D20CQCN07-B
+Mail:  ManhNH.B20CN427@stu.ptit.edu.vn
+Date:  10/06/2002
+SDT:  0862083358
+-------------------------------------------------
+Ten:  Nguyễn Văn Mạnh
+MSV:  B20DCCN428
+Lop:  D20CQCN08-B
+Mail:  ManhNV.B20CN428@stu.ptit.edu.vn
+Date:  14/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Mạnh
+MSV:  B20DCCN429
+Lop:  D20CQCN09-B
+Mail:  ManhNV.B20CN429@stu.ptit.edu.vn
+Date:  05/05/2002
+SDT:  0984964437
+-------------------------------------------------
+Ten:  Trần Văn Mạnh
+MSV:  B20DCCN430
+Lop:  D20CQCN10-B
+Mail:  ManhTV.B20CN430@stu.ptit.edu.vn
+Date:  11/03/2002
+SDT:  0387121062
+-------------------------------------------------
+Ten:  Đào Duy Minh
+MSV:  B20DCCN431
+Lop:  D20CQCN11-B
+Mail:  MinhDD.B20CN431@stu.ptit.edu.vn
+Date:  01/08/2002
+SDT:  0862729142
+-------------------------------------------------
+Ten:  Hoàng Đức Minh
+MSV:  B20DCCN432
+Lop:  D20CQCN12-B
+Mail:  MinhHD.B20CN432@stu.ptit.edu.vn
+Date:  28/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Công Minh
+MSV:  B20DCCN433
+Lop:  D20CQCN01-B
+Mail:  MinhLC.B20CN433@stu.ptit.edu.vn
+Date:  24/03/2002
+SDT:  0393275620
+-------------------------------------------------
+Ten:  Ngô Đức Minh
+MSV:  B20DCCN434
+Lop:  D20CQCN02-B
+Mail:  MinhND.B20CN434@stu.ptit.edu.vn
+Date:  17/10/2002
+SDT:  0378436079
+-------------------------------------------------
+Ten:  Nguyễn Công Nhật Minh
+MSV:  B20DCCN435
+Lop:  D20CQCN03-B
+Mail:  MinhNCN.B20CN435@stu.ptit.edu.vn
+Date:  08/11/2002
+SDT:  0943174586
+-------------------------------------------------
+Ten:  Nguyễn Đức Minh
+MSV:  B20DCCN436
+Lop:  D20CQCN04-B
+Mail:  MinhND.B20CN436@stu.ptit.edu.vn
+Date:  27/11/2002
+SDT:  0799015866
+-------------------------------------------------
+Ten:  Nguyễn Ngọc Minh
+MSV:  B20DCCN437
+Lop:  D20CQCN05-B
+Mail:  nguyenngocminh2003@gmail.com
+Date:  12/03/2002
+SDT:  0983490076
+-------------------------------------------------
+Ten:  Nguyễn Quang Minh
+MSV:  B20DCCN438
+Lop:  D20CQCN06-B
+Mail:  MinhNQ.B20CN438@stu.ptit.edu.vn
+Date:  02/08/2002
+SDT:  0357631606
+-------------------------------------------------
+Ten:  Nguyễn Tuấn Minh
+MSV:  B20DCCN439
+Lop:  D20CQCN07-B
+Mail:  MinhNT.B20CN439@stu.ptit.edu.vn
+Date:  17/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Công Minh
+MSV:  B20DCCN440
+Lop:  D20CQCN08-B
+Mail:  MinhPC.B20CN440@stu.ptit.edu.vn
+Date:  31/05/2002
+SDT:  0961745813
+-------------------------------------------------
+Ten:  Phan Công Minh
+MSV:  B20DCCN441
+Lop:  D20CQCN09-B
+Mail:  MinhPC.B20CN441@stu.ptit.edu.vn
+Date:  13/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Giang Minh
+MSV:  B20DCCN442
+Lop:  D20CQCN10-B
+Mail:  MinhTG.B20CN442@stu.ptit.edu.vn
+Date:  10/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Quang Minh
+MSV:  B20DCCN443
+Lop:  D20CQCN11-B
+Mail:  MinhTQ.B20CN443@stu.ptit.edu.vn
+Date:  04/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Trà My
+MSV:  B20DCCN444
+Lop:  D20CQCN12-B
+Mail:  MyNTT.B20CN444@stu.ptit.edu.vn
+Date:  03/02/2002
+SDT:  0398051814
+-------------------------------------------------
+Ten:  Đặng Phương Nam
+MSV:  B20DCCN445
+Lop:  D20CQCN01-B
+Mail:  phuongnamDPN2k2@gmail.com
+Date:  20/10/2002
+SDT:  0912692172
+-------------------------------------------------
+Ten:  Hoàng Hải Nam
+MSV:  B20DCCN446
+Lop:  D20CQCN02-B
+Mail:  NamHH.B20CN446@stu.ptit.edu.vn
+Date:  05/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Công Nam
+MSV:  B20DCCN447
+Lop:  D20CQCN03-B
+Mail:  NamLC.B20CN447@stu.ptit.edu.vn
+Date:  06/04/2002
+SDT:  0842141055
+-------------------------------------------------
+Ten:  Lê Thành Nam
+MSV:  B20DCCN448
+Lop:  D20CQCN04-B
+Mail:  NamLT.B20CN448@stu.ptit.edu.vn
+Date:  01/09/2002
+SDT:  0366179911
+-------------------------------------------------
+Ten:  Nghiêm Văn Nam
+MSV:  B20DCCN449
+Lop:  D20CQCN05-B
+Mail:  NamNV.B20CN449@stu.ptit.edu.vn
+Date:  23/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đình Nam
+MSV:  B20DCCN450
+Lop:  D20CQCN06-B
+Mail:  NamND.B20CN450@stu.ptit.edu.vn
+Date:  24/10/2002
+SDT:  0396917193
+-------------------------------------------------
+Ten:  Nguyễn Hoài Nam
+MSV:  B20DCCN451
+Lop:  D20CQCN07-B
+Mail:  NamNH.B20CN451@stu.ptit.edu.vn
+Date:  12/05/2002
+SDT:  0867867019
+-------------------------------------------------
+Ten:  Nguyễn Hoài Nam
+MSV:  B20DCCN452
+Lop:  D20CQCN08-B
+Mail:  NamNH.B20CN452@stu.ptit.edu.vn
+Date:  05/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hoài Nam
+MSV:  B20DCCN453
+Lop:  D20CQCN09-B
+Mail:  NamNH.B20CN453@stu.ptit.edu.vn
+Date:  01/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Khánh Nam
+MSV:  B20DCCN454
+Lop:  D20CQCN10-B
+Mail:  NamNK.B20CN454@stu.ptit.edu.vn
+Date:  01/10/2002
+SDT:  0354373960
+-------------------------------------------------
+Ten:  Nguyễn Ngọc Nam
+MSV:  B20DCCN455
+Lop:  D20CQCN11-B
+Mail:  NamNN.B20CN455@stu.ptit.edu.vn
+Date:  29/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Phương Nam
+MSV:  B20DCCN456
+Lop:  D20CQCN12-B
+Mail:  NamNP.B20CN456@stu.ptit.edu.vn
+Date:  01/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Phương Nam
+MSV:  B20DCCN457
+Lop:  D20CQCN01-B
+Mail:  namnp.201002@gmail.com
+Date:  20/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Hoài Nam
+MSV:  B20DCCN458
+Lop:  D20CQCN02-B
+Mail:  NamPH.B20CN458@stu.ptit.edu.vn
+Date:  09/05/2002
+SDT:  0968078955
+-------------------------------------------------
+Ten:  Trần Phương Nam
+MSV:  B20DCCN459
+Lop:  D20CQCN03-B
+Mail:  Nam05052002@gmail.com
+Date:  05/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Tiến Nam
+MSV:  B20DCCN460
+Lop:  D20CQCN04-B
+Mail:  NamTT.B20CN460@stu.ptit.edu.vn
+Date:  15/06/2002
+SDT:  0972111352
+-------------------------------------------------
+Ten:  Nguyễn Trác Năng
+MSV:  B20DCCN461
+Lop:  D20CQCN05-B
+Mail:  NangNT.B20CN461@stu.ptit.edu.vn
+Date:  20/05/2002
+SDT:  0384210283
+-------------------------------------------------
+Ten:  Nguyễn Đức Ninh
+MSV:  B20DCCN462
+Lop:  D20CQCN06-B
+Mail:  NinhND.B20CN462@stu.ptit.edu.vn
+Date:  03/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Minh Ninh
+MSV:  B20DCCN463
+Lop:  D20CQCN07-B
+Mail:  NinhNM.B20CN463@stu.ptit.edu.vn
+Date:  27/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phùng Hu Nu
+MSV:  B20DCCN464
+Lop:  D20CQCN08-B
+Mail:  NuPH.B20CN464@stu.ptit.edu.vn
+Date:  15/03/2002
+SDT:  0946323962
+-------------------------------------------------
+Ten:  Nguyễn Lê Huy Núp
+MSV:  B20DCCN465
+Lop:  D20CQCN09-B
+Mail:  NupNLH.B20CN465@stu.ptit.edu.vn
+Date:  13/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Thị Nga
+MSV:  B20DCCN466
+Lop:  D20CQCN10-B
+Mail:  NgaLT.B20CN466@stu.ptit.edu.vn
+Date:  25/06/2002
+SDT:  0833250602
+-------------------------------------------------
+Ten:  Ngô Thị Nga
+MSV:  B20DCCN467
+Lop:  D20CQCN11-B
+Mail:  NgaNT.B20CN467@stu.ptit.edu.vn
+Date:  27/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thu Nga
+MSV:  B20DCCN468
+Lop:  D20CQCN12-B
+Mail:  NgaNT.B20CN468@stu.ptit.edu.vn
+Date:  30/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Kim Ngân
+MSV:  B20DCCN469
+Lop:  D20CQCN01-B
+Mail:  Nganhhbg1234@gmail.com
+Date:  19/05/2002
+SDT:  0862272382
+-------------------------------------------------
+Ten:  Vũ Thị Thanh Ngân
+MSV:  B20DCCN470
+Lop:  D20CQCN02-B
+Mail:  NganVTT.B20CN470@stu.ptit.edu.vn
+Date:  16/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Minh Nghĩa
+MSV:  B20DCCN471
+Lop:  D20CQCN03-B
+Mail:  NghiaTM.B20CN471@stu.ptit.edu.vn
+Date:  19/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Thanh Ngọc
+MSV:  B20DCCN472
+Lop:  D20CQCN04-B
+Mail:  ngocnguyenthithanh6@gmail.com
+Date:  05/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Ngọc
+MSV:  B20DCCN473
+Lop:  D20CQCN05-B
+Mail:  NgocNV.B20CN473@stu.ptit.edu.vn
+Date:  14/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Quang Ngọc
+MSV:  B20DCCN474
+Lop:  D20CQCN06-B
+Mail:  NgocTQ.B20CN474@stu.ptit.edu.vn
+Date:  14/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Thị Ngọc
+MSV:  B20DCCN475
+Lop:  D20CQCN07-B
+Mail:  NgocVT.B20CN475@stu.ptit.edu.vn
+Date:  24/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Văn Ngọc
+MSV:  B20DCCN476
+Lop:  D20CQCN08-B
+Mail:  NgocVV.B20CN476@stu.ptit.edu.vn
+Date:  04/09/2002
+SDT:  0338787233
+-------------------------------------------------
+Ten:  Đặng Đình Nguyên
+MSV:  B20DCCN477
+Lop:  D20CQCN09-B
+Mail:  dinhnguyen250802@gmail.com
+Date:  25/08/2002
+SDT:  0963045750
+-------------------------------------------------
+Ten:  Phạm Bình Nguyên
+MSV:  B20DCCN478
+Lop:  D20CQCN10-B
+Mail:  motsach1732002@gmail.com
+Date:  17/03/2002
+SDT:  0964590218
+-------------------------------------------------
+Ten:  Phạm Thị Minh Nguyệt
+MSV:  B20DCCN479
+Lop:  D20CQCN11-B
+Mail:  NguyetPTM.B20CN479@stu.ptit.edu.vn
+Date:  25/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Chu Bá Nhất
+MSV:  B20DCCN480
+Lop:  D20CQCN12-B
+Mail:  NhatCB.B20CN480@stu.ptit.edu.vn
+Date:  24/01/2002
+SDT:  0353243576
+-------------------------------------------------
+Ten:  Nguyễn Văn Nhất
+MSV:  B20DCCN481
+Lop:  D20CQCN01-B
+Mail:  Nhatnguyentc123@gmail.com
+Date:  18/08/2002
+SDT:  0919564828
+-------------------------------------------------
+Ten:  Lê Minh Nhật
+MSV:  B20DCCN482
+Lop:  D20CQCN02-B
+Mail:  NhatLM.B20CN482@stu.ptit.edu.vn
+Date:  21/02/2002
+SDT:  0886519399
+-------------------------------------------------
+Ten:  Nguyễn Đức Nhật
+MSV:  B20DCCN483
+Lop:  D20CQCN03-B
+Mail:  NhatND.B20CN483@stu.ptit.edu.vn
+Date:  06/04/2002
+SDT:  0353495146
+-------------------------------------------------
+Ten:  Nguyễn Quang Nhật
+MSV:  B20DCCN484
+Lop:  D20CQCN04-B
+Mail:  NhatNQ.B20CN484@stu.ptit.edu.vn
+Date:  15/07/2004
+SDT:  0399835588
+-------------------------------------------------
+Ten:  Trần Hữu Nhật
+MSV:  B20DCCN485
+Lop:  D20CQCN05-B
+Mail:  NhatTH.B20CN485@stu.ptit.edu.vn
+Date:  16/12/2002
+SDT:  0386320718
+-------------------------------------------------
+Ten:  Đỗ Ngọc Nhi
+MSV:  B20DCCN486
+Lop:  D20CQCN06-B
+Mail:  dongocnhi0110@gmail.com
+Date:  01/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Thị Quỳnh Nhi
+MSV:  B20DCCN487
+Lop:  D20CQCN07-B
+Mail:  NhiLTQ.B20CN487@stu.ptit.edu.vn
+Date:  18/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Mai Nhung
+MSV:  B20DCCN488
+Lop:  D20CQCN08-B
+Mail:  NhungNM.B20CN488@stu.ptit.edu.vn
+Date:  10/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Huy Oai
+MSV:  B20DCCN489
+Lop:  D20CQCN09-B
+Mail:  OaiNH.B20CN489@stu.ptit.edu.vn
+Date:  13/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Đỗ Phi
+MSV:  B20DCCN490
+Lop:  D20CQCN10-B
+Mail:  PhiNVD.B20CN490@stu.ptit.edu.vn
+Date:  04/06/2002
+SDT:  0396428568
+-------------------------------------------------
+Ten:  Đoàn Hoàng Phong
+MSV:  B20DCCN491
+Lop:  D20CQCN11-B
+Mail:  PhongDH.B20CN491@stu.ptit.edu.vn
+Date:  15/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Quốc Phong
+MSV:  B20DCCN492
+Lop:  D20CQCN12-B
+Mail:  PhongDQ.B20CN492@stu.ptit.edu.vn
+Date:  01/01/2002
+SDT:  0384896584
+-------------------------------------------------
+Ten:  Lê Huy Phong
+MSV:  B20DCCN493
+Lop:  D20CQCN01-B
+Mail:  PhongLH.B20CN493@stu.ptit.edu.vn
+Date:  07/05/2002
+SDT:  0917242109
+-------------------------------------------------
+Ten:  Lê Văn Phong
+MSV:  B20DCCN494
+Lop:  D20CQCN02-B
+Mail:  PhongLV.B20CN494@stu.ptit.edu.vn
+Date:  16/02/2002
+SDT:  0976368906
+-------------------------------------------------
+Ten:  Nguyễn Hải Phong
+MSV:  B20DCCN495
+Lop:  D20CQCN03-B
+Mail:  PhongNH.B20CN495@stu.ptit.edu.vn
+Date:  17/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hải Phong
+MSV:  B20DCCN496
+Lop:  D20CQCN04-B
+Mail:  PhongNH.B20CN496@stu.ptit.edu.vn
+Date:  24/05/2002
+SDT:  0397966566
+-------------------------------------------------
+Ten:  Phạm Hồng Phong
+MSV:  B20DCCN497
+Lop:  D20CQCN05-B
+Mail:  c50hongphong@gmail.com
+Date:  10/03/2002
+SDT:  0382567198
+-------------------------------------------------
+Ten:  Tạ Văn Phong
+MSV:  B20DCCN498
+Lop:  D20CQCN06-B
+Mail:  PhongTV.B20CN498@stu.ptit.edu.vn
+Date:  18/09/2002
+SDT:  0325296447
+-------------------------------------------------
+Ten:  Vũ Nhật Phong
+MSV:  B20DCCN499
+Lop:  D20CQCN07-B
+Mail:  PhongVN.B20CN499@stu.ptit.edu.vn
+Date:  28/12/2002
+SDT:  0916252841
+-------------------------------------------------
+Ten:  Đỗ Nam Phú
+MSV:  B20DCCN500
+Lop:  D20CQCN08-B
+Mail:  PhuDN.B20CN500@stu.ptit.edu.vn
+Date:  26/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Minh Phú
+MSV:  B20DCCN501
+Lop:  D20CQCN09-B
+Mail:  PhuNM.B20CN501@stu.ptit.edu.vn
+Date:  13/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đinh Huy Phúc
+MSV:  B20DCCN502
+Lop:  D20CQCN10-B
+Mail:  PhucDH.B20CN502@stu.ptit.edu.vn
+Date:  11/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đinh Minh Phúc
+MSV:  B20DCCN503
+Lop:  D20CQCN11-B
+Mail:  #Error404@stu.ptit.edu.vn
+Date:  01/01/2002
+SDT:  12345678910
+-------------------------------------------------
+Ten:  Đoàn Thế Phúc
+MSV:  B20DCCN504
+Lop:  D20CQCN12-B
+Mail:  PhucDT.B20CN504@stu.ptit.edu.vn
+Date:  28/03/2002
+SDT:  0374050765
+-------------------------------------------------
+Ten:  Đỗ Đức Hồng Phúc
+MSV:  B20DCCN505
+Lop:  D20CQCN01-B
+Mail:  PhucDDH.B20CN505@stu.ptit.edu.vn
+Date:  26/10/2002
+SDT:  0362895338
+-------------------------------------------------
+Ten:  Đỗ Hữu Phúc
+MSV:  B20DCCN506
+Lop:  D20CQCN02-B
+Mail:  PhucDH.B20CN506@stu.ptit.edu.vn
+Date:  27/03/2002
+SDT:  0862287556
+-------------------------------------------------
+Ten:  Đỗ Nguyên Phúc
+MSV:  B20DCCN507
+Lop:  D20CQCN03-B
+Mail:  PhucDN.B20CN507@stu.ptit.edu.vn
+Date:  07/03/2002
+SDT:  0865807302
+-------------------------------------------------
+Ten:  Hoàng Minh Phúc
+MSV:  B20DCCN508
+Lop:  D20CQCN04-B
+Mail:  PhucHM.B20CN508@stu.ptit.edu.vn
+Date:  04/05/2002
+SDT:  0392694960
+-------------------------------------------------
+Ten:  Hoàng Trọng Phúc
+MSV:  B20DCCN509
+Lop:  D20CQCN05-B
+Mail:  PhucHT.B20CN509@stu.ptit.edu.vn
+Date:  22/07/2002
+SDT:  0787427260
+-------------------------------------------------
+Ten:  Lê Quang Phúc
+MSV:  B20DCCN510
+Lop:  D20CQCN06-B
+Mail:  phuc12610@gmail.com
+Date:  02/12/2002
+SDT:  0946130159
+-------------------------------------------------
+Ten:  Nguyễn Đoàn Đức Phúc
+MSV:  B20DCCN511
+Lop:  D20CQCN07-B
+Mail:  PhucNDD.B20CN511@stu.ptit.edu.vn
+Date:  18/08/2002
+SDT:  0383132627
+-------------------------------------------------
+Ten:  Phạm Thanh Phúc
+MSV:  B20DCCN512
+Lop:  D20CQCN08-B
+Mail:  PhucPT.B20CN512@stu.ptit.edu.vn
+Date:  27/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Quách Xuân Phúc
+MSV:  B20DCCN513
+Lop:  D20CQCN09-B
+Mail:  PhucQX.B20CN513@stu.ptit.edu.vn
+Date:  19/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Đình Phúc
+MSV:  B20DCCN514
+Lop:  D20CQCN10-B
+Mail:  PhucTD.B20CN514@stu.ptit.edu.vn
+Date:  06/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Văn Phúc
+MSV:  B20DCCN515
+Lop:  D20CQCN11-B
+Mail:  PhucTV.B20CN515@stu.ptit.edu.vn
+Date:  09/10/2002
+SDT:  0326226141
+-------------------------------------------------
+Ten:  Nguyễn Thành Phước
+MSV:  B20DCCN516
+Lop:  D20CQCN12-B
+Mail:  PhuocNT.B20CN516@stu.ptit.edu.vn
+Date:  29/01/2002
+SDT:  0868662785
+-------------------------------------------------
+Ten:  Vũ Đình Phước
+MSV:  B20DCCN517
+Lop:  D20CQCN01-B
+Mail:  vuphuoc1252002@gmail.com
+Date:  12/05/2002
+SDT:  0582359468
+-------------------------------------------------
+Ten:  Đinh Thu Phương
+MSV:  B20DCCN518
+Lop:  D20CQCN02-B
+Mail:  PhuongDT.B20CN518@stu.ptit.edu.vn
+Date:  14/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Việt Phương
+MSV:  B20DCCN519
+Lop:  D20CQCN03-B
+Mail:  PhuongDV.B20CN519@stu.ptit.edu.vn
+Date:  05/11/2002
+SDT:  0972760236
+-------------------------------------------------
+Ten:  Hoàng Duy Phương
+MSV:  B20DCCN520
+Lop:  D20CQCN04-B
+Mail:  PhuongHD.B20CN520@stu.ptit.edu.vn
+Date:  30/10/2002
+SDT:  0866735762
+-------------------------------------------------
+Ten:  Hồ Việt Phương
+MSV:  B20DCCN521
+Lop:  D20CQCN05-B
+Mail:  PhuongHV.B20CN521@stu.ptit.edu.vn
+Date:  07/01/2002
+SDT:  0868605121
+-------------------------------------------------
+Ten:  Lê Hà Phương
+MSV:  B20DCCN522
+Lop:  D20CQCN06-B
+Mail:  PhuongLH.B20CN522@stu.ptit.edu.vn
+Date:  07/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Ngô Đức Phương
+MSV:  B20DCCN523
+Lop:  D20CQCN07-B
+Mail:  ndphuong2k2@gmail.com
+Date:  01/11/2002
+SDT:  0353621271
+-------------------------------------------------
+Ten:  Nguyễn Mai Phương
+MSV:  B20DCCN524
+Lop:  D20CQCN08-B
+Mail:  PhuongNM.B20CN524@stu.ptit.edu.vn
+Date:  03/04/2002
+SDT:  0338531687
+-------------------------------------------------
+Ten:  Tô Thị Hậu Phương
+MSV:  B20DCCN525
+Lop:  D20CQCN09-B
+Mail:  Hauphuong26042002@gmail.com
+Date:  26/04/2002
+SDT:  0862572604
+-------------------------------------------------
+Ten:  Vũ Thị Thu Phương
+MSV:  B20DCCN526
+Lop:  D20CQCN10-B
+Mail:  PhuongVTT.B20CN526@stu.ptit.edu.vn
+Date:  30/07/2002
+SDT:  0941592385
+-------------------------------------------------
+Ten:  Phạm Thị Phượng
+MSV:  B20DCCN527
+Lop:  D20CQCN11-B
+Mail:  PhuongPT.B20CN527@stu.ptit.edu.vn
+Date:  01/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đàm Hồng Quang
+MSV:  B20DCCN528
+Lop:  D20CQCN12-B
+Mail:  QuangDH.B20CN528@stu.ptit.edu.vn
+Date:  11/05/2002
+SDT:  0981926027
+-------------------------------------------------
+Ten:  Hạ Đăng Quang
+MSV:  B20DCCN529
+Lop:  D20CQCN01-B
+Mail:  QuangHD.B20CN529@stu.ptit.edu.vn
+Date:  07/08/2002
+SDT:  0383056510
+-------------------------------------------------
+Ten:  Ngô Minh Quang
+MSV:  B20DCCN530
+Lop:  D20CQCN02-B
+Mail:  QuangNM.B20CN530@stu.ptit.edu.vn
+Date:  27/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đắc Quang
+MSV:  B20DCCN531
+Lop:  D20CQCN03-B
+Mail:  QuangND.B20CN531@stu.ptit.edu.vn
+Date:  27/04/2002
+SDT:  0338068578
+-------------------------------------------------
+Ten:  Nguyễn Đăng Quang
+MSV:  B20DCCN532
+Lop:  D20CQCN04-B
+Mail:  dangquangpltnvn@gmail.com
+Date:  12/02/2002
+SDT:  0967797969
+-------------------------------------------------
+Ten:  Nguyễn Đức Minh Quang
+MSV:  B20DCCN533
+Lop:  D20CQCN05-B
+Mail:  nminhquang380@gmail.com
+Date:  22/10/2002
+SDT:  0837899887
+-------------------------------------------------
+Ten:  Nguyễn Ngọc Quang
+MSV:  B20DCCN534
+Lop:  D20CQCN06-B
+Mail:  QuangNN.B20CN534@stu.ptit.edu.vn
+Date:  29/06/1990
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Viết Quang
+MSV:  B20DCCN535
+Lop:  D20CQCN07-B
+Mail:  QuangNV.B20CN535@stu.ptit.edu.vn
+Date:  16/11/2002
+SDT:  0823884679
+-------------------------------------------------
+Ten:  Phạm Văn Quang
+MSV:  B20DCCN536
+Lop:  D20CQCN08-B
+Mail:  QuangPV.B20CN536@stu.ptit.edu.vn
+Date:  10/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Minh Quang
+MSV:  B20DCCN537
+Lop:  D20CQCN09-B
+Mail:  QuangTM.B20CN537@stu.ptit.edu.vn
+Date:  30/10/2002
+SDT:  0862210445
+-------------------------------------------------
+Ten:  Trần Minh Quang
+MSV:  B20DCCN538
+Lop:  D20CQCN10-B
+Mail:  QuangTM.B20CN538@stu.ptit.edu.vn
+Date:  21/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trịnh Xuân Quang
+MSV:  B20DCCN539
+Lop:  D20CQCN11-B
+Mail:  QuangTX.B20CN539@stu.ptit.edu.vn
+Date:  01/02/2002
+SDT:  0399361475
+-------------------------------------------------
+Ten:  Vũ Đức Quang
+MSV:  B20DCCN540
+Lop:  D20CQCN12-B
+Mail:  QuangVD.B20CN540@stu.ptit.edu.vn
+Date:  05/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Quảng
+MSV:  B20DCCN541
+Lop:  D20CQCN01-B
+Mail:  QuangND.B20CN541@stu.ptit.edu.vn
+Date:  13/03/2002
+SDT:  0388002653
+-------------------------------------------------
+Ten:  Phạm Văn Quảng
+MSV:  B20DCCN542
+Lop:  D20CQCN02-B
+Mail:  QuangPV.B20CN542@stu.ptit.edu.vn
+Date:  11/10/2002
+SDT:  0773248375
+-------------------------------------------------
+Ten:  Phùng Văn Quảng
+MSV:  B20DCCN543
+Lop:  D20CQCN03-B
+Mail:  QuangPV.B20CN543@stu.ptit.edu.vn
+Date:  26/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đặng Việt Quân
+MSV:  B20DCCN544
+Lop:  D20CQCN04-B
+Mail:  QuanDV.B20CN544@stu.ptit.edu.vn
+Date:  12/10/2002
+SDT:  0377069961
+-------------------------------------------------
+Ten:  Đậu Anh Quân
+MSV:  B20DCCN545
+Lop:  D20CQCN05-B
+Mail:  QuanDA.B20CN545@stu.ptit.edu.vn
+Date:  25/09/2002
+SDT:  0327873346
+-------------------------------------------------
+Ten:  Đỗ Hoàng Quân
+MSV:  B20DCCN546
+Lop:  D20CQCN06-B
+Mail:  hoangquan05112002@gmail.com
+Date:  05/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Hồng Quân
+MSV:  B20DCCN547
+Lop:  D20CQCN07-B
+Mail:  QuanDH.B20CN547@stu.ptit.edu.vn
+Date:  15/05/2002
+SDT:  0344499311
+-------------------------------------------------
+Ten:  Hà Minh Quân
+MSV:  B20DCCN548
+Lop:  D20CQCN08-B
+Mail:  QuanHM.B20CN548@stu.ptit.edu.vn
+Date:  28/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hồng Quân
+MSV:  B20DCCN549
+Lop:  D20CQCN09-B
+Mail:  QuanNH.B20CN549@stu.ptit.edu.vn
+Date:  22/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Mạnh Quân
+MSV:  B20DCCN550
+Lop:  D20CQCN10-B
+Mail:  quannm.ptit@gmail.com
+Date:  17/07/2002
+SDT:  0336993106
+-------------------------------------------------
+Ten:  Nguyễn Minh Quân
+MSV:  B20DCCN551
+Lop:  D20CQCN11-B
+Mail:  QuanNM.B20CN551@stu.ptit.edu.vn
+Date:  21/01/2002
+SDT:  0977513028
+-------------------------------------------------
+Ten:  Nguyễn Minh Quân
+MSV:  B20DCCN552
+Lop:  D20CQCN12-B
+Mail:  QuanNM.B20CN552@stu.ptit.edu.vn
+Date:  08/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Minh Quân
+MSV:  B20DCCN553
+Lop:  D20CQCN01-B
+Mail:  anhquankk51@gmail.com
+Date:  22/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Phúc Quân
+MSV:  B20DCCN554
+Lop:  D20CQCN02-B
+Mail:  QuanNP.B20CN554@stu.ptit.edu.vn
+Date:  19/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thiên Quân
+MSV:  B20DCCN555
+Lop:  D20CQCN03-B
+Mail:  QuanNT.B20CN555@stu.ptit.edu.vn
+Date:  03/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Quân
+MSV:  B20DCCN556
+Lop:  D20CQCN04-B
+Mail:  QuanNV.B20CN556@stu.ptit.edu.vn
+Date:  30/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Hồng Quân
+MSV:  B20DCCN557
+Lop:  D20CQCN05-B
+Mail:  QuanVH.B20CN557@stu.ptit.edu.vn
+Date:  02/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Bá Quốc
+MSV:  B20DCCN558
+Lop:  D20CQCN06-B
+Mail:  QuocHB.B20CN558@stu.ptit.edu.vn
+Date:  23/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Anh Quốc
+MSV:  B20DCCN559
+Lop:  D20CQCN07-B
+Mail:  nguyenanhquoc187@gmail.com
+Date:  18/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đào Phương Quý
+MSV:  B20DCCN560
+Lop:  D20CQCN08-B
+Mail:  QuyDP.B20CN560@stu.ptit.edu.vn
+Date:  22/07/2002
+SDT:  0358277305
+-------------------------------------------------
+Ten:  Nguyễn Thế Quý
+MSV:  B20DCCN561
+Lop:  D20CQCN09-B
+Mail:  QuyNT.B20CN561@stu.ptit.edu.vn
+Date:  31/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Thị Hồng Quyên
+MSV:  B20DCCN562
+Lop:  D20CQCN10-B
+Mail:  bthq202@gmail.com
+Date:  11/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Mạnh Quyền
+MSV:  B20DCCN563
+Lop:  D20CQCN11-B
+Mail:  QuyenDM.B20CN563@stu.ptit.edu.vn
+Date:  12/10/2002
+SDT:  0326039793
+-------------------------------------------------
+Ten:  Lê Thọ Quyền
+MSV:  B20DCCN564
+Lop:  D20CQCN12-B
+Mail:  
+Date:  20/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Quyền
+MSV:  B20DCCN565
+Lop:  D20CQCN01-B
+Mail:  QuyenNV.B20CN565@stu.ptit.edu.vn
+Date:  22/01/2002
+SDT:  0972445936
+-------------------------------------------------
+Ten:  Lê Mạnh Quyết
+MSV:  B20DCCN566
+Lop:  D20CQCN02-B
+Mail:  QuyetLM.B20CN566@stu.ptit.edu.vn
+Date:  15/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đình Mạnh Quỳnh
+MSV:  B20DCCN567
+Lop:  D20CQCN03-B
+Mail:  QuynhNDM.B20CN567@stu.ptit.edu.vn
+Date:  03/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Lê Trúc Quỳnh
+MSV:  B20DCCN568
+Lop:  D20CQCN04-B
+Mail:  nltquynh875@gmail.com
+Date:  21/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Như Quỳnh
+MSV:  B20DCCN569
+Lop:  D20CQCN05-B
+Mail:  nguyennquynh238@gmail.com
+Date:  23/08/2002
+SDT:  0975325743
+-------------------------------------------------
+Ten:  Trần Văn Sông
+MSV:  B20DCCN570
+Lop:  D20CQCN06-B
+Mail:  SongTV.B20CN570@stu.ptit.edu.vn
+Date:  27/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Hồng Sơn
+MSV:  B20DCCN571
+Lop:  D20CQCN07-B
+Mail:  SonBH.B20CN571@stu.ptit.edu.vn
+Date:  18/10/2002
+SDT:  0328531191
+-------------------------------------------------
+Ten:  Bùi Hồng Sơn
+MSV:  B20DCCN572
+Lop:  D20CQCN08-B
+Mail:  hongson1234abb@gmail.com
+Date:  13/09/2002
+SDT:  0944256197
+-------------------------------------------------
+Ten:  Bùi Thanh Sơn
+MSV:  B20DCCN573
+Lop:  D20CQCN09-B
+Mail:  SonBT.B20CN573@stu.ptit.edu.vn
+Date:  19/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Thế Sơn
+MSV:  B20DCCN574
+Lop:  D20CQCN10-B
+Mail:  SonHT.B20CN574@stu.ptit.edu.vn
+Date:  08/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lại Ngọc Sơn
+MSV:  B20DCCN575
+Lop:  D20CQCN11-B
+Mail:  SonLN.B20CN575@stu.ptit.edu.vn
+Date:  10/01/2001
+SDT:  
+-------------------------------------------------
+Ten:  Lê Hải Sơn
+MSV:  B20DCCN576
+Lop:  D20CQCN12-B
+Mail:  SonLH.B20CN576@stu.ptit.edu.vn
+Date:  02/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Minh Sơn
+MSV:  B20DCCN577
+Lop:  D20CQCN01-B
+Mail:  SonLM.B20CN577@stu.ptit.edu.vn
+Date:  26/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Ngô Công Sơn
+MSV:  B20DCCN578
+Lop:  D20CQCN02-B
+Mail:  SonNC.B20CN578@stu.ptit.edu.vn
+Date:  12/02/2002
+SDT:  0971993416
+-------------------------------------------------
+Ten:  Nguyễn Khắc Sơn
+MSV:  B20DCCN580
+Lop:  D20CQCN04-B
+Mail:  SonNK.B20CN580@stu.ptit.edu.vn
+Date:  28/05/2002
+SDT:  0848173289
+-------------------------------------------------
+Ten:  Nguyễn Phúc Sơn
+MSV:  B20DCCN581
+Lop:  D20CQCN05-B
+Mail:  SonNP.B20CN581@stu.ptit.edu.vn
+Date:  14/10/2002
+SDT:  0776231838
+-------------------------------------------------
+Ten:  Phạm Xuân Sơn
+MSV:  B20DCCN582
+Lop:  D20CQCN06-B
+Mail:  SonPX.B20CN582@stu.ptit.edu.vn
+Date:  12/01/2002
+SDT:  0354867667
+-------------------------------------------------
+Ten:  Trần Hoàng Sơn
+MSV:  B20DCCN583
+Lop:  D20CQCN07-B
+Mail:  SonTH.B20CN583@stu.ptit.edu.vn
+Date:  13/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trịnh Bá Ngọc Sơn
+MSV:  B20DCCN584
+Lop:  D20CQCN08-B
+Mail:  trinhbangocson@gmail.com
+Date:  28/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Hoàng Sơn
+MSV:  B20DCCN585
+Lop:  D20CQCN09-B
+Mail:  SonVH.B20CN585@stu.ptit.edu.vn
+Date:  21/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đào Công Sử
+MSV:  B20DCCN586
+Lop:  D20CQCN10-B
+Mail:  SuDC.B20CN586@stu.ptit.edu.vn
+Date:  14/08/2002
+SDT:  0962897842
+-------------------------------------------------
+Ten:  Dương Thị Thanh Tâm
+MSV:  B20DCCN588
+Lop:  D20CQCN12-B
+Mail:  TamDTT.B20CN588@stu.ptit.edu.vn
+Date:  20/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Phú Tâm
+MSV:  B20DCCN589
+Lop:  D20CQCN01-B
+Mail:  TamNP.B20CN589@stu.ptit.edu.vn
+Date:  30/01/2002
+SDT:  0839538245
+-------------------------------------------------
+Ten:  Nguyễn Thành Tâm
+MSV:  B20DCCN590
+Lop:  D20CQCN02-B
+Mail:  TamNT.B20CN590@stu.ptit.edu.vn
+Date:  15/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Xuân Tấn
+MSV:  B20DCCN591
+Lop:  D20CQCN03-B
+Mail:  TanLX.B20CN591@stu.ptit.edu.vn
+Date:  20/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Trọng Tấn
+MSV:  B20DCCN592
+Lop:  D20CQCN04-B
+Mail:  TanVT.B20CN592@stu.ptit.edu.vn
+Date:  27/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đoàn Quốc Tiến
+MSV:  B20DCCN593
+Lop:  D20CQCN05-B
+Mail:  TienDQ.B20CN593@stu.ptit.edu.vn
+Date:  30/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đăng Tiến
+MSV:  B20DCCN594
+Lop:  E20CQCN01-B
+Mail:  nctvip02@gmail.com
+Date:  18/12/2002
+SDT:  0966157506
+-------------------------------------------------
+Ten:  Nguyễn Mạnh Tiến
+MSV:  B20DCCN595
+Lop:  D20CQCN07-B
+Mail:  TienNM.B20CN595@stu.ptit.edu.vn
+Date:  13/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Phú Tiến
+MSV:  B20DCCN596
+Lop:  D20CQCN08-B
+Mail:  TienNP.B20CN596@stu.ptit.edu.vn
+Date:  06/10/2002
+SDT:  0359382025
+-------------------------------------------------
+Ten:  Phạm Trọng Tiến
+MSV:  B20DCCN597
+Lop:  D20CQCN09-B
+Mail:  TienPT.B20CN597@stu.ptit.edu.vn
+Date:  01/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Văn Tiến
+MSV:  B20DCCN598
+Lop:  D20CQCN10-B
+Mail:  TienPV.B20CN598@stu.ptit.edu.vn
+Date:  19/12/2002
+SDT:  0962716919
+-------------------------------------------------
+Ten:  Vũ Hoàng Tiến
+MSV:  B20DCCN599
+Lop:  D20CQCN11-B
+Mail:  TienVH.B20CN599@stu.ptit.edu.vn
+Date:  20/10/2002
+SDT:  0394047827
+-------------------------------------------------
+Ten:  Vũ Văn Tiến
+MSV:  B20DCCN600
+Lop:  D20CQCN12-B
+Mail:  TienVV.B20CN600@stu.ptit.edu.vn
+Date:  31/08/2002
+SDT:  0981883950
+-------------------------------------------------
+Ten:  Phạm Quang Tiệp
+MSV:  B20DCCN601
+Lop:  D20CQCN01-B
+Mail:  phamquangtiephhqq11@gmail.com
+Date:  04/01/2002
+SDT:  0396597918
+-------------------------------------------------
+Ten:  Trần Đình Tính
+MSV:  B20DCCN602
+Lop:  D20CQCN02-B
+Mail:  TinhTD.B20CN602@stu.ptit.edu.vn
+Date:  03/08/1992
+SDT:  
+-------------------------------------------------
+Ten:  Đào Song Toàn
+MSV:  B20DCCN603
+Lop:  D20CQCN03-B
+Mail:  ToanDS.B20CN603@stu.ptit.edu.vn
+Date:  03/11/2002
+SDT:  0522165778
+-------------------------------------------------
+Ten:  Nguyễn Bá Toàn
+MSV:  B20DCCN604
+Lop:  D20CQCN04-B
+Mail:  ToanNB.B20CN604@stu.ptit.edu.vn
+Date:  21/12/2002
+SDT:  0925321769
+-------------------------------------------------
+Ten:  Trần Văn Toản
+MSV:  B20DCCN605
+Lop:  D20CQCN05-B
+Mail:  ToanTV.B20CN605@stu.ptit.edu.vn
+Date:  21/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Văn Tới
+MSV:  B20DCCN606
+Lop:  D20CQCN06-B
+Mail:  ToiPV.B20CN606@stu.ptit.edu.vn
+Date:  04/07/2002
+SDT:  0356368539
+-------------------------------------------------
+Ten:  Nguyễn Anh Tú
+MSV:  B20DCCN607
+Lop:  D20CQCN07-B
+Mail:  TuNA.B20CN607@stu.ptit.edu.vn
+Date:  01/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hữu Tú
+MSV:  B20DCCN608
+Lop:  D20CQCN08-B
+Mail:  TuNH.B20CN608@stu.ptit.edu.vn
+Date:  12/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Tú
+MSV:  B20DCCN609
+Lop:  D20CQCN09-B
+Mail:  TuNV.B20CN609@stu.ptit.edu.vn
+Date:  11/05/2002
+SDT:  0333735718
+-------------------------------------------------
+Ten:  Phạm Thanh Tú
+MSV:  B20DCCN610
+Lop:  D20CQCN10-B
+Mail:  TuPT.B20CN610@stu.ptit.edu.vn
+Date:  14/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Tuân
+MSV:  B20DCCN611
+Lop:  D20CQCN11-B
+Mail:  TuanNV.B20CN611@stu.ptit.edu.vn
+Date:  04/06/2002
+SDT:  0836731848
+-------------------------------------------------
+Ten:  Đặng Văn Tuấn
+MSV:  B20DCCN612
+Lop:  D20CQCN12-B
+Mail:  TuanDV.B20CN612@stu.ptit.edu.vn
+Date:  25/11/2002
+SDT:  0825554568
+-------------------------------------------------
+Ten:  Đinh Mạnh Tuấn
+MSV:  B20DCCN613
+Lop:  D20CQCN01-B
+Mail:  TuanDM.B20CN613@stu.ptit.edu.vn
+Date:  05/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Văn Tuấn
+MSV:  B20DCCN614
+Lop:  D20CQCN02-B
+Mail:  TuanDV.B20CN614@stu.ptit.edu.vn
+Date:  29/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lương Nhật Tuấn
+MSV:  B20DCCN615
+Lop:  D20CQCN03-B
+Mail:  TuanLN.B20CN615@stu.ptit.edu.vn
+Date:  22/12/2002
+SDT:  0379230864
+-------------------------------------------------
+Ten:  Nguyễn Hữu Tuấn
+MSV:  B20DCCN616
+Lop:  D20CQCN04-B
+Mail:  TuanNH.B20CN616@stu.ptit.edu.vn
+Date:  17/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Mạnh Tuấn
+MSV:  B20DCCN617
+Lop:  D20CQCN05-B
+Mail:  TuanNM.B20CN617@stu.ptit.edu.vn
+Date:  04/09/2002
+SDT:  0373600664
+-------------------------------------------------
+Ten:  Thiều Ngọc Tuấn
+MSV:  B20DCCN618
+Lop:  D20CQCN06-B
+Mail:  TuanTN.B20CN618@stu.ptit.edu.vn
+Date:  03/04/2002
+SDT:  0969522336
+-------------------------------------------------
+Ten:  Trần Anh Tuấn
+MSV:  B20DCCN619
+Lop:  D20CQCN07-B
+Mail:  TuanTA.B20CN619@stu.ptit.edu.vn
+Date:  22/08/2002
+SDT:  0337383962
+-------------------------------------------------
+Ten:  Trần Thanh Tuấn
+MSV:  B20DCCN620
+Lop:  D20CQCN08-B
+Mail:  TuanTT.B20CN620@stu.ptit.edu.vn
+Date:  01/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trịnh Minh Tuấn
+MSV:  B20DCCN621
+Lop:  D20CQCN09-B
+Mail:  TuanTM.B20CN621@stu.ptit.edu.vn
+Date:  26/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Võ Hữu Tuấn
+MSV:  B20DCCN622
+Lop:  D20CQCN10-B
+Mail:  dungtuan095@gmail.com
+Date:  19/03/2002
+SDT:  0336214312
+-------------------------------------------------
+Ten:  Võ Quốc Tuấn
+MSV:  B20DCCN623
+Lop:  D20CQCN11-B
+Mail:  TuanVQ.B20CN623@stu.ptit.edu.vn
+Date:  19/05/2002
+SDT:  0375316126
+-------------------------------------------------
+Ten:  Vũ Anh Tuấn
+MSV:  B20DCCN624
+Lop:  D20CQCN12-B
+Mail:  TuanVA.B20CN624@stu.ptit.edu.vn
+Date:  17/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Duy Tùng
+MSV:  B20DCCN625
+Lop:  D20CQCN01-B
+Mail:  tungnguyenduy1234@gmail.com
+Date:  16/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đăng Tùng
+MSV:  B20DCCN626
+Lop:  D20CQCN02-B
+Mail:  TungND.B20CN626@stu.ptit.edu.vn
+Date:  14/02/2002
+SDT:  0347224166
+-------------------------------------------------
+Ten:  Nguyễn Hoàng Tùng
+MSV:  B20DCCN627
+Lop:  D20CQCN03-B
+Mail:  TungNH.B20CN627@stu.ptit.edu.vn
+Date:  15/12/2002
+SDT:  0977127262
+-------------------------------------------------
+Ten:  Nguyễn Thanh Tùng
+MSV:  B20DCCN628
+Lop:  D20CQCN04-B
+Mail:  TungNT.B20CN628@stu.ptit.edu.vn
+Date:  12/06/2002
+SDT:  0986882612
+-------------------------------------------------
+Ten:  Nguyễn Việt Tùng
+MSV:  B20DCCN629
+Lop:  D20CQCN05-B
+Mail:  TungNV.B20CN629@stu.ptit.edu.vn
+Date:  06/03/2002
+SDT:  0382988655
+-------------------------------------------------
+Ten:  Phạm Thanh Tùng
+MSV:  B20DCCN630
+Lop:  D20CQCN06-B
+Mail:  TungPT.B20CN630@stu.ptit.edu.vn
+Date:  25/08/2002
+SDT:  0349448623
+-------------------------------------------------
+Ten:  Trương Thanh Tùng
+MSV:  B20DCCN631
+Lop:  D20CQCN07-B
+Mail:  TungTT.B20CN631@stu.ptit.edu.vn
+Date:  03/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Tuyên
+MSV:  B20DCCN632
+Lop:  D20CQCN08-B
+Mail:  Nvt2632002@gmail.com
+Date:  26/03/2002
+SDT:  0867828302
+-------------------------------------------------
+Ten:  Nguyễn Văn Tuyên
+MSV:  B20DCCN633
+Lop:  D20CQCN09-B
+Mail:  TuyenNV.B20CN633@stu.ptit.edu.vn
+Date:  08/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Văn Thạch
+MSV:  B20DCCN634
+Lop:  D20CQCN10-B
+Mail:  phamvanthach505@gmail.com
+Date:  06/01/2002
+SDT:  0968966754
+-------------------------------------------------
+Ten:  Phan Tuấn Thạch
+MSV:  B20DCCN635
+Lop:  D20CQCN11-B
+Mail:  phantuanthachuu@gmail.com
+Date:  09/10/2002
+SDT:  0854352262
+-------------------------------------------------
+Ten:  Ngô Trần Đức Thái
+MSV:  B20DCCN636
+Lop:  D20CQCN12-B
+Mail:  ngotranducthai@gmail.com
+Date:  
+SDT:  
+-------------------------------------------------
+Ten:  Dương Đức Thanh
+MSV:  B20DCCN637
+Lop:  D20CQCN01-B
+Mail:  ThanhDD.B20CN637@stu.ptit.edu.vn
+Date:  09/02/2002
+SDT:  0961048492
+-------------------------------------------------
+Ten:  Vũ Phương Thanh
+MSV:  B20DCCN638
+Lop:  D20CQCN02-B
+Mail:  ThanhVP.B20CN638@stu.ptit.edu.vn
+Date:  13/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Xuân Thành
+MSV:  B20DCCN639
+Lop:  D20CQCN03-B
+Mail:  ThanhBX.B20CN639@stu.ptit.edu.vn
+Date:  21/11/2002
+SDT:  0962318944
+-------------------------------------------------
+Ten:  Cao Tiến Thành
+MSV:  B20DCCN640
+Lop:  D20CQCN04-B
+Mail:  ThanhCT.B20CN640@stu.ptit.edu.vn
+Date:  12/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đào Xuân Thành
+MSV:  B20DCCN641
+Lop:  D20CQCN05-B
+Mail:  daoxuanthanh2808@gmail.com
+Date:  28/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đinh Công Thành
+MSV:  B20DCCN642
+Lop:  D20CQCN06-B
+Mail:  toygungun4@gmail.com
+Date:  28/11/2001
+SDT:  0932350274
+-------------------------------------------------
+Ten:  Đỗ Tiến Thành
+MSV:  B20DCCN643
+Lop:  D20CQCN07-B
+Mail:  ThanhDT.B20CN643@stu.ptit.edu.vn
+Date:  28/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Tiến Thành
+MSV:  B20DCCN644
+Lop:  D20CQCN08-B
+Mail:  ThanhLT.B20CN644@stu.ptit.edu.vn
+Date:  17/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Tiến Thành
+MSV:  B20DCCN645
+Lop:  D20CQCN09-B
+Mail:  ThanhLT.B20CN645@stu.ptit.edu.vn
+Date:  11/02/2002
+SDT:  0869637864
+-------------------------------------------------
+Ten:  Lê Tuấn Thành
+MSV:  B20DCCN646
+Lop:  D20CQCN10-B
+Mail:  ThanhLT.B20CN646@stu.ptit.edu.vn
+Date:  24/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Xuân Thành
+MSV:  B20DCCN647
+Lop:  D20CQCN11-B
+Mail:  ThanhLX.B20CN647@stu.ptit.edu.vn
+Date:  24/01/2002
+SDT:  0965326554
+-------------------------------------------------
+Ten:  Mai Văn Thành
+MSV:  B20DCCN648
+Lop:  D20CQCN12-B
+Mail:  ThanhMV.B20CN648@stu.ptit.edu.vn
+Date:  03/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Ngô Quang Thành
+MSV:  B20DCCN649
+Lop:  D20CQCN01-B
+Mail:  ThanhNQ.B20CN649@stu.ptit.edu.vn
+Date:  26/02/2002
+SDT:  0586397652
+-------------------------------------------------
+Ten:  Nguyễn Thế Thành
+MSV:  B20DCCN650
+Lop:  D20CQCN02-B
+Mail:  ThanhNT.B20CN650@stu.ptit.edu.vn
+Date:  24/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Đăng Thành
+MSV:  B20DCCN651
+Lop:  D20CQCN03-B
+Mail:  ThanhTD.B20CN651@stu.ptit.edu.vn
+Date:  24/01/2002
+SDT:  0352112401
+-------------------------------------------------
+Ten:  Đỗ Văn Thao
+MSV:  B20DCCN652
+Lop:  D20CQCN04-B
+Mail:  ThaoDV.B20CN652@stu.ptit.edu.vn
+Date:  21/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hoàng Thao
+MSV:  B20DCCN653
+Lop:  D20CQCN05-B
+Mail:  ThaoNH.B20CN653@stu.ptit.edu.vn
+Date:  25/05/2002
+SDT:  0348525502
+-------------------------------------------------
+Ten:  Đường Thu Thảo
+MSV:  B20DCCN654
+Lop:  D20CQCN06-B
+Mail:  ThaoDT.B20CN654@stu.ptit.edu.vn
+Date:  08/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thu Thảo
+MSV:  B20DCCN655
+Lop:  D20CQCN07-B
+Mail:  ThaoNT.B20CN655@stu.ptit.edu.vn
+Date:  12/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Thị Thắm
+MSV:  B20DCCN656
+Lop:  D20CQCN08-B
+Mail:  
+Date:  22/11/2002
+SDT:  0868221526
+-------------------------------------------------
+Ten:  Trần Thị Thắm
+MSV:  B20DCCN657
+Lop:  D20CQCN09-B
+Mail:  ThamTT.B20CN657@stu.ptit.edu.vn
+Date:  23/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Cao Thắng
+MSV:  B20DCCN658
+Lop:  D20CQCN10-B
+Mail:  ThangBC.B20CN658@stu.ptit.edu.vn
+Date:  29/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đoàn Minh Thắng
+MSV:  B20DCCN659
+Lop:  D20CQCN11-B
+Mail:  ThangDM.B20CN659@stu.ptit.edu.vn
+Date:  07/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Đức Thắng
+MSV:  B20DCCN660
+Lop:  D20CQCN12-B
+Mail:  ThangHD.B20CN660@stu.ptit.edu.vn
+Date:  27/08/2002
+SDT:  0382239908
+-------------------------------------------------
+Ten:  Nguyễn Xuân Thắng
+MSV:  B20DCCN661
+Lop:  D20CQCN01-B
+Mail:  ThangNX.B20CN661@stu.ptit.edu.vn
+Date:  12/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Tạ Đức Thắng
+MSV:  B20DCCN662
+Lop:  D20CQCN02-B
+Mail:  ThangTD.B20CN662@stu.ptit.edu.vn
+Date:  16/10/2002
+SDT:  0366379255
+-------------------------------------------------
+Ten:  Trần Lê Chiến Thắng
+MSV:  B20DCCN663
+Lop:  D20CQCN03-B
+Mail:  ThangTLC.B20CN663@stu.ptit.edu.vn
+Date:  22/04/2002
+SDT:  0398958579
+-------------------------------------------------
+Ten:  Trần Thanh Thế
+MSV:  B20DCCN664
+Lop:  D20CQCN04-B
+Mail:  phonvan128@gmail.com
+Date:  19/11/2002
+SDT:  0367035885
+-------------------------------------------------
+Ten:  Nguyễn Thị Thêu
+MSV:  B20DCCN665
+Lop:  D20CQCN05-B
+Mail:  Nguyenthitheu8122@gmail.com
+Date:  08/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Văn Thi
+MSV:  B20DCCN666
+Lop:  D20CQCN06-B
+Mail:  ThiPV.B20CN666@stu.ptit.edu.vn
+Date:  31/05/2002
+SDT:  0377114536
+-------------------------------------------------
+Ten:  Nguyễn Ngọc Thiện
+MSV:  B20DCCN667
+Lop:  D20CQCN07-B
+Mail:  ThienNN.B20CN667@stu.ptit.edu.vn
+Date:  30/05/2002
+SDT:  0366120326
+-------------------------------------------------
+Ten:  Hà Văn Thiệp
+MSV:  B20DCCN668
+Lop:  D20CQCN08-B
+Mail:  ThiepHV.B20CN668@stu.ptit.edu.vn
+Date:  23/08/2002
+SDT:  0865873283
+-------------------------------------------------
+Ten:  Phạm Công Thiệp
+MSV:  B20DCCN669
+Lop:  D20CQCN09-B
+Mail:  ThiepPC.B20CN669@stu.ptit.edu.vn
+Date:  14/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lương Văn Thiết
+MSV:  B20DCCN670
+Lop:  D20CQCN10-B
+Mail:  ThietLV.B20CN670@stu.ptit.edu.vn
+Date:  19/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Bùi Văn Thiệu
+MSV:  B20DCCN671
+Lop:  D20CQCN11-B
+Mail:  ThieuBV.B20CN671@stu.ptit.edu.vn
+Date:  10/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Hữu Thịnh
+MSV:  B20DCCN672
+Lop:  D20CQCN12-B
+Mail:  ThinhNH.B20CN672@stu.ptit.edu.vn
+Date:  04/12/2002
+SDT:  0336515144
+-------------------------------------------------
+Ten:  Nguyễn Hữu Thịnh
+MSV:  B20DCCN673
+Lop:  D20CQCN01-B
+Mail:  ThinhNH.B20CN673@stu.ptit.edu.vn
+Date:  30/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Xuân Thu
+MSV:  B20DCCN674
+Lop:  D20CQCN02-B
+Mail:  ThuTX.B20CN674@stu.ptit.edu.vn
+Date:  14/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Huyền Thu
+MSV:  B20DCCN675
+Lop:  D20CQCN03-B
+Mail:  ThuVH.B20CN675@stu.ptit.edu.vn
+Date:  03/04/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đỗ Đức Thụ
+MSV:  B20DCCN676
+Lop:  D20CQCN04-B
+Mail:  ThuDD.B20CN676@stu.ptit.edu.vn
+Date:  08/10/2002
+SDT:  0398206185
+-------------------------------------------------
+Ten:  Nguyễn Văn Thuấn
+MSV:  B20DCCN677
+Lop:  D20CQCN05-B
+Mail:  ThuanNV.B20CN677@stu.ptit.edu.vn
+Date:  29/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Tiến Thuận
+MSV:  B20DCCN678
+Lop:  D20CQCN06-B
+Mail:  01655480113a@gmail.com
+Date:  05/08/2002
+SDT:  0375556882
+-------------------------------------------------
+Ten:  Trịnh Hưng Thuận
+MSV:  B20DCCN679
+Lop:  D20CQCN07-B
+Mail:  ThuanTH.B20CN679@stu.ptit.edu.vn
+Date:  25/05/2002
+SDT:  0918037656
+-------------------------------------------------
+Ten:  Đoàn Thị Thanh Thùy
+MSV:  B20DCCN680
+Lop:  D20CQCN08-B
+Mail:  ThuyDTT.B20CN680@stu.ptit.edu.vn
+Date:  21/03/2002
+SDT:  0971297023
+-------------------------------------------------
+Ten:  Nguyễn Thị Thùy
+MSV:  B20DCCN681
+Lop:  D20CQCN09-B
+Mail:  ThuyNT.B20CN681@stu.ptit.edu.vn
+Date:  06/08/2001
+SDT:  0981651093
+-------------------------------------------------
+Ten:  Cao Quang Thức
+MSV:  B20DCCN682
+Lop:  D20CQCN10-B
+Mail:  ThucCQ.B20CN682@stu.ptit.edu.vn
+Date:  30/01/2002
+SDT:  0335680434
+-------------------------------------------------
+Ten:  Đoàn Thị Hoài Thương
+MSV:  B20DCCN683
+Lop:  D20CQCN11-B
+Mail:  doanthuong2002.nk@gmail.com
+Date:  25/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Huyền Thương
+MSV:  B20DCCN684
+Lop:  D20CQCN12-B
+Mail:  ThuongNH.B20CN684@stu.ptit.edu.vn
+Date:  18/07/2002
+SDT:  0399952569
+-------------------------------------------------
+Ten:  Trần Thị Thương
+MSV:  B20DCCN685
+Lop:  D20CQCN01-B
+Mail:  ThuongTT.B20CN685@stu.ptit.edu.vn
+Date:  23/10/2002
+SDT:  0346982325
+-------------------------------------------------
+Ten:  Đỗ Huyền Trang
+MSV:  B20DCCN686
+Lop:  D20CQCN02-B
+Mail:  TrangDH.B20CN686@stu.ptit.edu.vn
+Date:  24/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Huyền Trang
+MSV:  B20DCCN687
+Lop:  D20CQCN03-B
+Mail:  TrangNH.B20CN687@stu.ptit.edu.vn
+Date:  23/12/2002
+SDT:  0865690432
+-------------------------------------------------
+Ten:  Nguyễn Thị Thu Trang
+MSV:  B20DCCN688
+Lop:  D20CQCN04-B
+Mail:  TrangNTT.B20CN688@stu.ptit.edu.vn
+Date:  11/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Thanh Trang
+MSV:  B20DCCN689
+Lop:  D20CQCN05-B
+Mail:  TrangPT.B20CN689@stu.ptit.edu.vn
+Date:  23/04/2002
+SDT:  0981400735
+-------------------------------------------------
+Ten:  Trần Thị Hồng Trang
+MSV:  B20DCCN690
+Lop:  D20CQCN06-B
+Mail:  tranthihongtrangvule2k2@gmail.com
+Date:  26/03/2002
+SDT:  0364075592
+-------------------------------------------------
+Ten:  Trần Xuân Triển
+MSV:  B20DCCN691
+Lop:  D20CQCN07-B
+Mail:  TrienTX.B20CN691@stu.ptit.edu.vn
+Date:  27/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Đức Trọng
+MSV:  B20DCCN692
+Lop:  D20CQCN08-B
+Mail:  TrongPD.B20CN692@stu.ptit.edu.vn
+Date:  24/07/2002
+SDT:  0343816178
+-------------------------------------------------
+Ten:  Nguyễn Thanh Trúc
+MSV:  B20DCCN693
+Lop:  D20CQCN09-B
+Mail:  anan27082002@gmail.com
+Date:  27/08/2002
+SDT:  0835356461
+-------------------------------------------------
+Ten:  Phan Thanh Trúc
+MSV:  B20DCCN694
+Lop:  D20CQCN10-B
+Mail:  bienbachhien803@gmail.com
+Date:  18/12/2002
+SDT:  0397457235
+-------------------------------------------------
+Ten:  Bùi Văn Trung
+MSV:  B20DCCN695
+Lop:  D20CQCN11-B
+Mail:  TrungBV.B20CN695@stu.ptit.edu.vn
+Date:  01/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Cao Xuân Trung
+MSV:  B20DCCN696
+Lop:  D20CQCN12-B
+Mail:  TrungCX.B20CN696@stu.ptit.edu.vn
+Date:  19/09/2001
+SDT:  
+-------------------------------------------------
+Ten:  Lê Thành Trung
+MSV:  B20DCCN697
+Lop:  D20CQCN01-B
+Mail:  TrungLT.B20CN697@stu.ptit.edu.vn
+Date:  10/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đình Trung
+MSV:  B20DCCN698
+Lop:  D20CQCN02-B
+Mail:  TrungND.B20CN698@stu.ptit.edu.vn
+Date:  16/07/2002
+SDT:  0389403869
+-------------------------------------------------
+Ten:  Nguyễn Quốc Trung
+MSV:  B20DCCN699
+Lop:  D20CQCN03-B
+Mail:  TrungNQ.B20CN699@stu.ptit.edu.vn
+Date:  24/12/2002
+SDT:  0813199174
+-------------------------------------------------
+Ten:  Vũ Quang Trung
+MSV:  B20DCCN700
+Lop:  D20CQCN04-B
+Mail:  TrungVQ.B20CN700@stu.ptit.edu.vn
+Date:  11/01/2002
+SDT:  0705143807
+-------------------------------------------------
+Ten:  Vương Danh Trung
+MSV:  B20DCCN702
+Lop:  D20CQCN06-B
+Mail:  TrungVD.B20CN702@stu.ptit.edu.vn
+Date:  16/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Danh Trực
+MSV:  B20DCCN703
+Lop:  D20CQCN07-B
+Mail:  TrucND.B20CN703@stu.ptit.edu.vn
+Date:  01/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đặng Xuân Trường
+MSV:  B20DCCN704
+Lop:  D20CQCN08-B
+Mail:  TruongDX.B20CN704@stu.ptit.edu.vn
+Date:  03/03/2002
+SDT:  0377537428
+-------------------------------------------------
+Ten:  Hoàng Mạnh Trường
+MSV:  B20DCCN705
+Lop:  D20CQCN09-B
+Mail:  truong.ptit.0812@gmail.com
+Date:  08/12/2002
+SDT:  0393290293
+-------------------------------------------------
+Ten:  Hoàng Trung Trường
+MSV:  B20DCCN706
+Lop:  D20CQCN10-B
+Mail:  TruongHT.B20CN706@stu.ptit.edu.vn
+Date:  20/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Ngô Quang Trường
+MSV:  B20DCCN707
+Lop:  D20CQCN11-B
+Mail:  TruongNQ.B20CN707@stu.ptit.edu.vn
+Date:  15/04/2002
+SDT:  0353519243
+-------------------------------------------------
+Ten:  Nguyễn Đắc Trường
+MSV:  B20DCCN708
+Lop:  D20CQCN12-B
+Mail:  TruongND.B20CN708@stu.ptit.edu.vn
+Date:  20/07/2002
+SDT:  0962842402
+-------------------------------------------------
+Ten:  Nguyễn Huy Trường
+MSV:  B20DCCN709
+Lop:  D20CQCN01-B
+Mail:  TruongNH.B20CN709@stu.ptit.edu.vn
+Date:  10/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Văn Trường
+MSV:  B20DCCN710
+Lop:  D20CQCN02-B
+Mail:  TruongNV.B20CN710@stu.ptit.edu.vn
+Date:  25/01/2001
+SDT:  0961489403
+-------------------------------------------------
+Ten:  Nguyễn Xuân Trường
+MSV:  B20DCCN711
+Lop:  D20CQCN03-B
+Mail:  TruongNX.B20CN711@stu.ptit.edu.vn
+Date:  05/03/2002
+SDT:  0336339591
+-------------------------------------------------
+Ten:  Nguyễn Xuân Trường
+MSV:  B20DCCN712
+Lop:  D20CQCN04-B
+Mail:  TruongNX.B20CN712@stu.ptit.edu.vn
+Date:  27/08/2002
+SDT:  
+-------------------------------------------------
+Ten:  Thăng Văn Trường
+MSV:  B20DCCN713
+Lop:  D20CQCN05-B
+Mail:  TruongTV.B20CN713@stu.ptit.edu.vn
+Date:  15/09/2002
+SDT:  0978305422
+-------------------------------------------------
+Ten:  Vũ Huy Trường
+MSV:  B20DCCN714
+Lop:  D20CQCN06-B
+Mail:  
+Date:  15/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Công Uẩn
+MSV:  B20DCCN715
+Lop:  D20CQCN07-B
+Mail:  UanNC.B20CN715@stu.ptit.edu.vn
+Date:  22/07/2002
+SDT:  0328369055
+-------------------------------------------------
+Ten:  Vương Thị Uyên
+MSV:  B20DCCN716
+Lop:  D20CQCN08-B
+Mail:  UyenVT.B20CN716@stu.ptit.edu.vn
+Date:  10/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Ngọc Uyn
+MSV:  B20DCCN717
+Lop:  D20CQCN09-B
+Mail:  UynPN.B20CN717@stu.ptit.edu.vn
+Date:  05/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Thị Ước
+MSV:  B20DCCN718
+Lop:  D20CQCN10-B
+Mail:  UocNT.B20CN718@stu.ptit.edu.vn
+Date:  25/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đào Công Văn
+MSV:  B20DCCN719
+Lop:  D20CQCN11-B
+Mail:  VanDC.B20CN719@stu.ptit.edu.vn
+Date:  16/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Thúy Vân
+MSV:  B20DCCN720
+Lop:  D20CQCN12-B
+Mail:  VanTT.B20CN720@stu.ptit.edu.vn
+Date:  10/08/2002
+SDT:  0775397334
+-------------------------------------------------
+Ten:  Đỗ Đức Viên
+MSV:  B20DCCN721
+Lop:  D20CQCN01-B
+Mail:  VienDD.B20CN721@stu.ptit.edu.vn
+Date:  26/09/2002
+SDT:  
+-------------------------------------------------
+Ten:  Đặng Bảo Việt
+MSV:  B20DCCN722
+Lop:  D20CQCN02-B
+Mail:  VietDB.B20CN722@stu.ptit.edu.vn
+Date:  16/07/2002
+SDT:  0862924501
+-------------------------------------------------
+Ten:  Hoàng Quốc Việt
+MSV:  B20DCCN724
+Lop:  D20CQCN04-B
+Mail:  VietHQ.B20CN724@stu.ptit.edu.vn
+Date:  15/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Lê Tuấn Việt
+MSV:  B20DCCN725
+Lop:  D20CQCN05-B
+Mail:  VietLT.B20CN725@stu.ptit.edu.vn
+Date:  12/07/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Việt
+MSV:  B20DCCN727
+Lop:  D20CQCN07-B
+Mail:  VietND.B20CN727@stu.ptit.edu.vn
+Date:  17/01/2002
+SDT:  0357392188
+-------------------------------------------------
+Ten:  Nguyễn Hoàng Việt
+MSV:  B20DCCN728
+Lop:  D20CQCN08-B
+Mail:  VietNH.B20CN728@stu.ptit.edu.vn
+Date:  10/05/2002
+SDT:  0337176055
+-------------------------------------------------
+Ten:  Nguyễn Văn Việt
+MSV:  B20DCCN729
+Lop:  D20CQCN09-B
+Mail:  VietNV.B20CN729@stu.ptit.edu.vn
+Date:  12/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Vũ Đức Việt
+MSV:  B20DCCN730
+Lop:  D20CQCN10-B
+Mail:  VietNVD.B20CN730@stu.ptit.edu.vn
+Date:  05/08/2002
+SDT:  0866128744
+-------------------------------------------------
+Ten:  Phạm Quốc Việt
+MSV:  B20DCCN731
+Lop:  D20CQCN11-B
+Mail:  bovietvidaihpdp@gmail.com
+Date:  17/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phạm Quốc Việt
+MSV:  B20DCCN732
+Lop:  D20CQCN12-B
+Mail:  VietPQ.B20CN732@stu.ptit.edu.vn
+Date:  29/12/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trần Văn Việt
+MSV:  B20DCCN733
+Lop:  D20CQCN01-B
+Mail:  VietTV.B20CN733@stu.ptit.edu.vn
+Date:  07/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Trương Quốc Việt
+MSV:  B20DCCN734
+Lop:  D20CQCN02-B
+Mail:  trviet4302@gmail.com
+Date:  04/03/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Quốc Việt
+MSV:  B20DCCN735
+Lop:  D20CQCN03-B
+Mail:  VietVQ.B20CN735@stu.ptit.edu.vn
+Date:  04/04/2002
+SDT:  0971037648
+-------------------------------------------------
+Ten:  Bùi Hoàng Vinh
+MSV:  B20DCCN736
+Lop:  D20CQCN04-B
+Mail:  VinhBH.B20CN736@stu.ptit.edu.vn
+Date:  15/07/2002
+SDT:  0946902235
+-------------------------------------------------
+Ten:  Khúc Văn Vinh
+MSV:  B20DCCN737
+Lop:  D20CQCN05-B
+Mail:  VinhKV.B20CN737@stu.ptit.edu.vn
+Date:  09/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Đức Vinh
+MSV:  B20DCCN738
+Lop:  D20CQCN06-B
+Mail:  ndvinhcn@gmail.com
+Date:  01/11/2002
+SDT:  
+-------------------------------------------------
+Ten:  Phan Văn Vinh
+MSV:  B20DCCN739
+Lop:  D20CQCN07-B
+Mail:  VinhPV.B20CN739@stu.ptit.edu.vn
+Date:  22/11/2002
+SDT:  0962986581
+-------------------------------------------------
+Ten:  Vũ Quang Vinh
+MSV:  B20DCCN740
+Lop:  D20CQCN08-B
+Mail:  VinhVQ.B20CN740@stu.ptit.edu.vn
+Date:  25/05/2002
+SDT:  0963871280
+-------------------------------------------------
+Ten:  Bùi Minh Vũ
+MSV:  B20DCCN741
+Lop:  D20CQCN09-B
+Mail:  VuBM.B20CN741@stu.ptit.edu.vn
+Date:  02/07/2002
+SDT:  0981640566
+-------------------------------------------------
+Ten:  Cao Minh Vũ
+MSV:  B20DCCN742
+Lop:  D20CQCN10-B
+Mail:  caominhvu499@gmail.com
+Date:  25/08/2002
+SDT:  0962777241
+-------------------------------------------------
+Ten:  Lê Xuân Vũ
+MSV:  B20DCCN743
+Lop:  D20CQCN11-B
+Mail:  VuLX.B20CN743@stu.ptit.edu.vn
+Date:  27/09/2002
+SDT:  0343553263
+-------------------------------------------------
+Ten:  Nguyễn Anh Vũ
+MSV:  B20DCCN744
+Lop:  D20CQCN12-B
+Mail:  Vuvovan2k2@gmail.com
+Date:  20/09/2002
+SDT:  0924006991
+-------------------------------------------------
+Ten:  Nguyễn Lê Vũ
+MSV:  B20DCCN745
+Lop:  D20CQCN01-B
+Mail:  VuNL.B20CN745@stu.ptit.edu.vn
+Date:  26/05/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Long Vũ
+MSV:  B20DCCN746
+Lop:  D20CQCN02-B
+Mail:  VuNL.B20CN746@stu.ptit.edu.vn
+Date:  01/06/2002
+SDT:  
+-------------------------------------------------
+Ten:  Nguyễn Trần Vũ
+MSV:  B20DCCN747
+Lop:  D20CQCN03-B
+Mail:  VuNT.B20CN747@stu.ptit.edu.vn
+Date:  02/09/2002
+SDT:  0977488365
+-------------------------------------------------
+Ten:  Bùi Quốc Vương
+MSV:  B20DCCN748
+Lop:  D20CQCN04-B
+Mail:  VuongBQ.B20CN748@stu.ptit.edu.vn
+Date:  20/10/2002
+SDT:  
+-------------------------------------------------
+Ten:  Hoàng Văn Vương
+MSV:  B20DCCN749
+Lop:  D20CQCN05-B
+Mail:  VuongHV.B20CN749@stu.ptit.edu.vn
+Date:  24/02/2002
+SDT:  0906163671
+-------------------------------------------------
+Ten:  Lưu Minh Vương
+MSV:  B20DCCN750
+Lop:  D20CQCN06-B
+Mail:  VuongLM.B20CN750@stu.ptit.edu.vn
+Date:  22/08/2002
+SDT:  0867864728
+-------------------------------------------------
+Ten:  Nguyễn Quốc Vương
+MSV:  B20DCCN751
+Lop:  D20CQCN07-B
+Mail:  VuongNQ.B20CN751@stu.ptit.edu.vn
+Date:  15/08/2002
+SDT:  0981430664
+-------------------------------------------------
+Ten:  Trịnh Quốc Vương
+MSV:  B20DCCN752
+Lop:  D20CQCN08-B
+Mail:  VuongTQ.B20CN752@stu.ptit.edu.vn
+Date:  21/02/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Thị Yên
+MSV:  B20DCCN753
+Lop:  D20CQCN09-B
+Mail:  YenVT.B20CN753@stu.ptit.edu.vn
+Date:  18/01/2002
+SDT:  
+-------------------------------------------------
+Ten:  Vũ Thị Yến
+MSV:  B20DCCN754
+Lop:  D20CQCN10-B
+Mail:  yenvu24012002@gmail.com
+Date:  24/11/2002
+SDT:  0378614202
+-------------------------------------------------
+Ten:  Nguyễn Văn Phong
+MSV:  B20DCCN755
+Lop:  D20CQCN02-B
+Mail:  PhongNV.B20DCCN755@stu.ptit.edu.vn
+Date:  17/10/2002
+SDT:  0346970454
+-------------------------------------------------
+Ten:  Nguyễn Văn Thặng
+MSV:  B20DCCN756
+Lop:  D20CQCN03-B
+Mail:  thang08052002@gmail.com
+Date:  24/06/2002
+SDT:  0867878215
+-------------------------------------------------
+Ten:  Trần Minh Tân
+MSV:  B20DCCN757
+Lop:  D20CQCN02-B
+Mail:  minhtan290902@gmail.com
+Date:  29/09/2002
+SDT:  0889547725
+-------------------------------------------------
