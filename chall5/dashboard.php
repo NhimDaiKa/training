@@ -225,7 +225,7 @@
                                               <div class="form-group row" style="height:40px;">
                                                 <label for="exampleInputPassword2" class="col-sm-1 col-form-label" style="margin-left:30px;"><h5>Nộp bài</h5></label>
                                                 <div class="col-sm-6">
-                                                  <input type="file" class="form-control" name="file">
+                                                  <input type="file" class="form-control" name="file" required>
                                                 </div>
                                                 <div class="col-sm-3">
                                                   <button class="btn btn-primary btn-icon-text" style="color:white">
