@@ -1,0 +1,50 @@
+select s.age, s.age-5 as age1, 2*s.age as age2 
+from sailors s
+where s.sname = 'dustin';
+
+select s1.sname as name1, s2.sname as name2
+from sailors s1, sailors s2
+where 2*s1.rating = s2.rating -1;
+
+select s.sname
+from sailors s
+where s.sname like 'B_%B';
+
+select s.sname 
+from sailors s
+where s.sid in (SELECT r.sid
+                from reserves r
+                where r.bid=103);
+
+select count(*)
+from sailors s
+where s.rating=10;
+
+select avg(DISTINCT s.age)
+from sailors s
+where s.rating=10;
+
+select s.sname
+from sailors s
+where s.age=(select max(s.age)
+             from sailors s);
+
+cách 1:
+SELECT s.sname
+from sailors s, reserves r, boats b
+where s.sid=r.sid and r.bid=b.bid and (b.color='red' or b.color='green')
+
+cách 2:
+select s.sname 
+from sailors s, reserves r, boats b 
+where s.sid=r.sid and b.bid=r.bid and b.color='red' 
+union 
+select s.sname from sailors s, reserves r, boats b 
+where s.sid=r.sid and b.bid=r.bid and b.color='green';
+
+Chọn ra người không mua thuyền nào
+SELECT s.sname from sailors s
+WHERE sname not in (select sname 
+                    from sailors, reserves
+                    where sailors.sid=reserves.sid);
+
