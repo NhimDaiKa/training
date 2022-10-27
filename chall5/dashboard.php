@@ -1,6 +1,7 @@
 <?php
 
   include_once "db.php";
+  if(!isset($_SESSION['pid'])) header("Location: /index.php");
 
   $pid = $_SESSION['pid'];
   $data = $conn->query("SELECT * FROM user where pid=$pid");
@@ -197,7 +198,7 @@
                                   <div class="col-lg-12">
                                     <div class="d-sm-flex justify-content-between align-items-start">
                                       <h4 class="card-title card-title-dash">Bài tập</h4>
-                                      <?php if($_SESSION['pid']==1){
+                                      <?php if($data['role']==1){
                                         echo '<div class="add-items d-flex mb-0">
                                                 <button class="btn btn-primary btn-me text-white mb-0 me-0" ><a href="pages/homework/create.php" style="color:white; text-decoration:none;">Thêm bài tập</a></button>
                                               </div>';
@@ -216,7 +217,7 @@
                                               <h5>Bài tập: <?php echo $rt['name']; ?></h5>
                                             </label>
                                             <label class="form-check-label">
-                                              <a href=<?php echo '"homework/download.php?file='.$rt['file'].'">'.$rt['file']; ?></a>
+                                              <a href=<?php echo '"pages/homework/download.php?file='.$rt['file'].'">'.$rt['file']; ?></a>
                                             </label>
                                             <div class="d-flex mt-2">
                                               <div class="ps-4 text-small me-3"><?php echo $rt['date']; ?></div>
@@ -247,7 +248,7 @@
                                                   echo $count.', '.$r['user']." "; 
                                                   $count++; 
                                                 ?>
-                                                <a href=<?php echo '"homework/download.php?file='.$r['file'].'">'.$r['file']; ?></a>
+                                                <a href=<?php echo '"pages/homework/downhw.php?file='.$r['file'].'">'.$r['file']; ?></a>
                                               </label>
                                               <div class="d-flex mt-2">
                                                 <div class="ps-4 text-small me-3"><?php echo $r['date']; ?></div>
@@ -267,7 +268,7 @@
                                                     echo $count.', '.$r['user']." "; 
                                                     $count++;
                                                   ?>
-                                                  <a href=<?php echo '"homework/download.php?file='.$r['file'].'">'.$r['file']; ?></a>
+                                                  <a href=<?php echo '"pages/homework/downhw.php?file='.$r['file'].'">'.$r['file']; ?></a>
                                                 </label>
                                                 <div class="d-flex mt-2">
                                                   <div class="ps-4 text-small me-3"><?php echo $r['date']; ?></div>
