@@ -40,82 +40,77 @@ def send_image(url, local_file, cookie, wpnonce):
     img = open(local_file, 'rb').read()
     file_name = local_file.split("/")[-1]
     extension = file_name.split(".")[-1]
-    body =f'''------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
+    body =f'''------WebKitFormBoundaryjf3HFzAFyFmJMzMB\r
 Content-Disposition: form-data; name="name"\r
 \r
 {file_name}\r  
-------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
-Content-Disposition: form-data; name="post_id"\r
+------WebKitFormBoundaryjf3HFzAFyFmJMzMB\r
+Content-Disposition: form-data; name="action"\r
 \r
-0\r
-------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
+upload-attachment\r
+------WebKitFormBoundaryjf3HFzAFyFmJMzMB\r
 Content-Disposition: form-data; name="_wpnonce"\r
 \r
 {wpnonce}\r
-------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
-Content-Disposition: form-data; name="type"\r
-\r
-\r
-------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
-Content-Disposition: form-data; name="tab"\r
-\r
-\r
-------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
-Content-Disposition: form-data; name="short"\r
-\r
-1\r
-------WebKitFormBoundaryXKO4AzI37YAFOk0n\r
+------WebKitFormBoundaryjf3HFzAFyFmJMzMB\r
 Content-Disposition: form-data; name="async-upload"; filename="{file_name}"\r
 Content-Type: image/{extension}\r
 \r
-{img}\r
-------WebKitFormBoundaryXKO4AzI37YAFOk0n--\r
-\r
 '''
+    body = body.encode()+img+b"\r\n"+b"------WebKitFormBoundaryjf3HFzAFyFmJMzMB--"
     length = len(body)
-    req = f"""POST /wp-admin/async-upload.php HTTP/1,1\r
+    req = f"""POST /wp-admin/async-upload.php HTTP/1.1\r
 Host: {url}\r
 Cookie: {cookie}\r
 Content-Length: {length}\r
-Content-Type: multipart/form-data;boundary=----WebKitFormBoundaryXKO4AzI37YAFOk0n\r
+Content-Type: multipart/form-data;boundary=----WebKitFormBoundaryjf3HFzAFyFmJMzMB\r
 Connection: keep-alive\r
 \r
 """
-    req += body
-    sock.send(req.encode())
-    data = sock.recv(2048)
-    data = data.decode()
-    if "HTTP/1.1 200 OK" in data:
+    req = req.encode()+body
+    sock.sendall(req)
+    data = b""
+    while 1:
+        tmp = sock.recv(2048)
+        if not tmp:
+            break
+        data += tmp
+    if b"HTTP/1.1 200 OK" in data:
         print("Upload success")
+        path = re.findall(b'"full":{"url":"(.*)","height":804,"width":960,"orientation":"landscape"}},"compat":{"item":"","meta":""}}}',data)
+        pa = path[0].decode()
+        pa = pa.replace("\\","")
+        print("File upload url: " + pa) 
     else:
         print("Failed")
-    print (data)
 
 def login(url, user, password, local_file):
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     sock.connect((url, 80))
-    body = "log={0}&pwd={1}".format(user,password)
+    body = "log={}&pwd={}".format(user,password)
     length = len(body)
     req = '''POST /wp-login.php HTTP/1.1\r
 Host: {}\r
 Content-Length: {}\r
 Content-Type: application/x-www-form-urlencoded\r
+Cookie: wordpress_test_cookie=WP Cookie check; wp_lang=en_US\r
+Connection: Keep-alive\r
 \r
 log={}&pwd={}'''.format(url, length, user, password)
     sock.send(req.encode())
-    data=sock.recv(2048)
-    data=data.decode()
+    data = sock.recv(2048)
+    data = data.decode()
     if "login_error" not in data:
-        print("User {} dang nhap thanh cong\n".format(user))
-        cookie = get_cookie(data)
-#         print(cookie)
-#         print("\n")
-        wpnonce = get_wpnonce(url, cookie)
-#         print(wpnonce)
-#         print("\n")
-        send_image(url, local_file, cookie, wpnonce)
+         print("User {} dang nhap thanh cong\n".format(user))
+         cookie = get_cookie(data)
+# #         print(cookie)
+# #         print("\n")
+         wpnonce = get_wpnonce(url, cookie)
+# #         print(wpnonce)
+# #         print("\n")
+         send_image(url, local_file, cookie, wpnonce)
     else:
-        print("User {} dang nhap that bai".format(user))
+         print("User {} dang nhap that bai".format(user))
     sock.close()
 
 def main():
