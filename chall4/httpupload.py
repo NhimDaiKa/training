@@ -77,7 +77,7 @@ Connection: keep-alive\r
         data += tmp
     if b"HTTP/1.1 200 OK" in data:
         print("Upload success")
-        path = re.findall(b'"full":{"url":"(.*)","height":804,"width":960,"orientation":"landscape"}},"compat":{"item":"","meta":""}}}',data)
+        path = re.findall(b'"full":{"url":"(.*)","height":',data)
         pa = path[0].decode()
         pa = pa.replace("\\","")
         print("File upload url: " + pa) 
