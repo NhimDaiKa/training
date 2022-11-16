@@ -237,7 +237,7 @@
                                             </form>
                                             <?php 
                                               $prj_id = $rt['hid'];
-                                              if($_SESSION['pid']==1){ 
+                                              if($data['role']==1){ 
                                                 $na = $conn->prepare("SELECT * FROM hws WHERE prj_id=$prj_id");
                                                 $na->execute();
                                                 $count = 1;
@@ -304,7 +304,7 @@
                                   <div class="col-lg-12">
                                     <div class="d-sm-flex justify-content-between align-items-start">
                                       <h4 class="card-title card-title-dash">Challenge</h4>
-                                      <?php if($_SESSION['pid']==1){
+                                      <?php if($data['role']==1){
                                       echo '<div class="add-items d-flex mb-0">
                                               <button class="btn btn-primary btn-me text-white mb-0 me-0" ><a href="pages/challenge/create.php" style="color:white; text-decoration:none;">Thêm challenge</a></button>
                                             </div>';
